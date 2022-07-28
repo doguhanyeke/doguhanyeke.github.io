@@ -34,6 +34,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
-
+ali veli deli
 {% include feature_row %}
 ali veli deli
