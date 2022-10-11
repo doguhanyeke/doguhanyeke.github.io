@@ -35,6 +35,54 @@ body {
   flex: 1 0 auto;
 }
 
+.timeline {
+  width: 100%;
+  border-left: 3px solid #ddd;
+  margin: 0px;
+  margin-left: 27px;
+  margin-bottom:50px
+}
+
+.timeline .timeline-item {
+  margin-bottom:10px
+}
+
+.timeline .timeline-news {
+  margin: 20px;
+  margin-right:47px
+}
+
+.timeline .timeline-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  display: block;
+  position: absolute;
+  left: -27px;
+  top:5px
+}
+
+.timeline .timeline-date {
+  position:relative
+}
+
+.timeline .timeline-date span {
+  color: #fff;
+  border-radius: 4px;
+  padding: 3px 5px;
+  font-size: 8pt;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 100;
+  text-transform:uppercase
+}
+
+.timeline .timeline-title {
+  font-size: 14px;
+  margin-left: 10px;
+  display: inline;
+  line-height:1.5
+}
+
 .page {
   @include breakpoint($large) {
     float: right;
