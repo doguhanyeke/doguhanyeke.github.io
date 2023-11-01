@@ -121,6 +121,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:dyeke@purdue.edu"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/pdf/CV-Doguhan_Yeke.pdf"
 
 
 # Reading Files
