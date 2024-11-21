@@ -16,7 +16,7 @@
     <style>
       .masthead__inner-wrap {
         display: flex;
-        justify-content: space-between !important;
+        justify-content: flex-start !important;
         padding-left: 8em !important;
         padding-right: 8em !important;
         max-width: 1280px !important;
@@ -25,30 +25,26 @@
       
       .greedy-nav {
         display: flex;
-        justify-content: space-between !important;
+        justify-content: flex-start !important;
         width: 100%;
         padding: 0 !important;
       }
       
-      /* Move site title to the left */
+      /* Keep site title where it is */
       .site-title {
-        margin-right: auto !important;
-        padding-right: 2em !important;
-        margin-left: -8em !important;  /* Align with content */
+        margin-right: 2em !important;
       }
       
+      /* Move only Publications and Testbeds to the right */
       .visible-links {
+        position: absolute !important;
+        right: 8em !important;
         display: flex;
-        margin-left: auto !important;
         gap: 2em !important;
       }
 
       .masthead__menu-item {
         margin: 0 !important;
-        padding: 0 1em !important;
-      }
-      
-      .site-title, .masthead__menu-item {
         white-space: nowrap !important;
       }
     </style>
