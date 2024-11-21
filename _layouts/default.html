@@ -12,6 +12,22 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <style>
+      .masthead__menu.greedy-nav .visible-links {
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+        padding-right: 2rem;
+      }
+      
+      .masthead__menu.greedy-nav .visible-links li.masthead__menu-item {
+        padding: 1em 0 1em 2em;
+      }
+      
+      .masthead__menu.greedy-nav .visible-links li.masthead__menu-item:first-child {
+        padding-left: 1em;
+      }
+    </style>
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
@@ -24,6 +40,22 @@
 
     {% if site.search == true %}
       <div class="search-content">
+        {% include_cached search/search_form.html %}
+      </div>
+    {% endif %}
+
+    <div id="footer" class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include_cached footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
+  </body>
+</html>
+
         {% include_cached search/search_form.html %}
       </div>
     {% endif %}
