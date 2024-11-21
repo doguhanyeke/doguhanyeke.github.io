@@ -1,1 +1,11 @@
- 
+.masthead__menu {
+  &.greedy-nav {
+    .visible-links {
+      justify-content: flex-start;
+      
+      li.masthead__menu-item {
+        padding-right: 2em;  // Add some spacing between items
+      }
+    }
+  }
+} 
