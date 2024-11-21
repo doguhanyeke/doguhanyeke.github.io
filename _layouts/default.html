@@ -12,20 +12,41 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    
     <style>
-      .masthead__menu.greedy-nav .visible-links {
-        -webkit-box-pack: start;
-        -ms-flex-pack: start;
-        justify-content: flex-start;
-        padding-right: 2rem;
+      /* Target the flex containers specifically */
+      .masthead__inner-wrap {
+        display: flex;
+        justify-content: flex-start !important;
       }
       
-      .masthead__menu.greedy-nav .visible-links li.masthead__menu-item {
-        padding: 1em 0 1em 2em;
+      .greedy-nav {
+        display: flex;
+        justify-content: flex-start !important;
+        width: 100%;
       }
       
-      .masthead__menu.greedy-nav .visible-links li.masthead__menu-item:first-child {
-        padding-left: 1em;
+      .visible-links {
+        display: flex;
+        justify-content: flex-start !important;
+        margin-right: auto !important;
+        width: 100%;
+      }
+      
+      /* Remove any auto margins that might be centering */
+      .masthead__menu {
+        margin-left: 0 !important;
+        margin-right: auto !important;
+        width: 100%;
+      }
+      
+      /* Ensure site title and nav items are properly aligned */
+      .site-title {
+        margin-right: 2em !important;
+      }
+      
+      .masthead__menu-item {
+        margin-right: 2em !important;
       }
     </style>
   </head>
@@ -56,18 +77,3 @@
   </body>
 </html>
 
-        {% include_cached search/search_form.html %}
-      </div>
-    {% endif %}
-
-    <div id="footer" class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include_cached footer.html %}
-      </footer>
-    </div>
-
-    {% include scripts.html %}
-
-  </body>
-</html>
