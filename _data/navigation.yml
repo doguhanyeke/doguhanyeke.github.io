@@ -1,9 +1,9 @@
 # main links
 main:
-  #- title: ""
-  #  url: ""
-  #- title: ""
-  #  url: ""
+  - title: "Testbeds"
+    url: "/testbeds"
+  - title: "Publications"
+    url: "/publications"
   #- title: ""
   #  url: ""
   #- title: "About"
