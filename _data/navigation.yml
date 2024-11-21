@@ -1,11 +1,9 @@
 # main links
 main:
-  - title: "Testbeds"
-    url: "/testbeds"
   - title: "Publications"
     url: "/publications"
-
-
+  - title: "Testbeds"
+    url: "/testbeds"
   #- title: "About"
   #  url: /about/
   #- title: "Sample Posts"
