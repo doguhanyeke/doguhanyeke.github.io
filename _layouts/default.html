@@ -14,28 +14,36 @@
     {% include head/custom.html %}
     
     <style>
-      /* Previous flex alignment styles */
       .masthead__inner-wrap {
         display: flex;
-        justify-content: flex-start !important;
-        padding-left: 3em !important;  /* Add padding to match content */
-        padding-right: 3em !important;
-        max-width: 1280px !important;  /* Match content width */
+        justify-content: space-between !important;  /* Changed to space-between */
+        padding-left: 8em !important;
+        padding-right: 8em !important;
+        max-width: 1280px !important;
         margin: 0 auto !important;
       }
       
       .greedy-nav {
         display: flex;
-        justify-content: flex-start !important;
+        justify-content: space-between !important;  /* Changed to space-between */
         width: 100%;
-        padding: 0 !important;  /* Remove default padding */
+        padding: 0 !important;
       }
       
       .visible-links {
         display: flex;
-        justify-content: flex-start !important;
+        margin-left: auto !important;  /* Push links to the right */
+        gap: 2em !important;  /* Space between navigation items */
+      }
+
+      /* Remove default margins from navigation items */
+      .masthead__menu-item {
+        margin: 0 !important;
+      }
+
+      /* Keep site title on the left */
+      .site-title {
         margin-right: auto !important;
-        width: 100%;
       }
     </style>
   </head>
