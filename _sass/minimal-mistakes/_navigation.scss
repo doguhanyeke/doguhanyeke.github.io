@@ -220,22 +220,25 @@
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: end;
-    -ms-flex-pack: end;
-    justify-content: flex-end;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
     -webkit-box-flex: 1;
     -ms-flex: 1;
     flex: 1;
+    padding-right: 2em;
     overflow: hidden;
 
     li {
       -webkit-box-flex: 0;
       -ms-flex: none;
       flex: none;
+      padding-right: 2em;
     }
 
     a {
       position: relative;
+      margin: 0;
 
       &:before {
         content: "";
@@ -570,5 +573,24 @@
 
   li ul li ul li ul li ul li ul>li a {
     padding-left: 3.25rem
+  }
+}
+
+.masthead {
+  &__inner-wrap {
+    padding: 1em;
+    max-width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    
+    nav {
+      width: 100%;
+    }
   }
 }
