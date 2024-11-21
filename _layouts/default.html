@@ -14,39 +14,17 @@
     {% include head/custom.html %}
     
     <style>
-      /* Target the flex containers specifically */
-      .masthead__inner-wrap {
-        display: flex;
-        justify-content: flex-start !important;
-      }
+      /* Previous styles remain the same */
       
-      .greedy-nav {
-        display: flex;
-        justify-content: flex-start !important;
-        width: 100%;
-      }
-      
-      .visible-links {
-        display: flex;
-        justify-content: flex-start !important;
-        margin-right: auto !important;
-        width: 100%;
-      }
-      
-      /* Remove any auto margins that might be centering */
-      .masthead__menu {
-        margin-left: 0 !important;
-        margin-right: auto !important;
-        width: 100%;
-      }
-      
-      /* Ensure site title and nav items are properly aligned */
-      .site-title {
-        margin-right: 2em !important;
-      }
-      
+      /* Adjust spacing for Publications link */
       .masthead__menu-item {
         margin-right: 2em !important;
+        margin-left: 2em !important;  /* Add left margin */
+      }
+      
+      /* Remove left margin from first menu item */
+      .visible-links li:first-child .masthead__menu-item {
+        margin-left: 0 !important;
       }
     </style>
   </head>
