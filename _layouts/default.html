@@ -16,7 +16,7 @@
     <style>
       .masthead__inner-wrap {
         display: flex;
-        justify-content: space-between !important;  /* Changed to space-between */
+        justify-content: space-between !important;
         padding-left: 8em !important;
         padding-right: 8em !important;
         max-width: 1280px !important;
@@ -25,25 +25,32 @@
       
       .greedy-nav {
         display: flex;
-        justify-content: space-between !important;  /* Changed to space-between */
+        justify-content: space-between !important;
         width: 100%;
         padding: 0 !important;
       }
       
+      /* Add spacing between site title and navigation items */
+      .site-title {
+        margin-right: 2em !important;
+        padding-right: 2em !important;
+      }
+      
       .visible-links {
         display: flex;
-        margin-left: auto !important;  /* Push links to the right */
-        gap: 2em !important;  /* Space between navigation items */
+        margin-left: auto !important;
+        gap: 2em !important;
       }
 
-      /* Remove default margins from navigation items */
+      /* Add specific spacing for navigation items */
       .masthead__menu-item {
         margin: 0 !important;
+        padding: 0 1em !important;
       }
-
-      /* Keep site title on the left */
-      .site-title {
-        margin-right: auto !important;
+      
+      /* Fix the text wrapping issue */
+      .site-title, .masthead__menu-item {
+        white-space: nowrap !important;
       }
     </style>
   </head>
