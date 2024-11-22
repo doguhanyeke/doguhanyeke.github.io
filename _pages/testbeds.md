@@ -25,7 +25,7 @@ h2 {
 </style>
 
 <div class="page__content">
-In addition to publishing research papers, I focus on developing realistic testbeds and digital twins to bridge theoretical insights with practical applications. My work spans critical domains, including water treatment plants, chemical processing facilities, and multi-robot swarm navigation and communication. These efforts aim to enhance system resilience, improve operational efficiency, and close the sim-to-real gap in complex sociotechnical systems.
+In addition to publishing research papers, I also contribute developing realistic testbeds and digital twins to bridge theoretical insights with practical applications. My work spans critical domains, including water treatment plants, chemical plants, and multi-robot swarm navigation and communication. These efforts aim to enhance system resilience, mitigate vulnerabilities, and close the sim-to-real gap in industrial control systems (ICS) and cyber-physical systems (CPS).
 </div>
 <br>
 <br>
