@@ -1,5 +1,5 @@
 ---
-title: "Testbeds"
+title: "Research Testbeds"
 layout: single
 permalink: /testbeds/
 author_profile: true
@@ -46,6 +46,6 @@ Chemical Plant and Water Treatment Plant [<a href="https://action.ucsb.edu/">NSF
 
 <div class="testbed-item">
 <div class="testbed-title">
-Distributed Robot Swarm Simulation [<a href="https://action.ucsb.edu/">NSF ACTION GATE</a>]
+Distributed Robot Swarm Simulation [<a href="https://www.purdue.edu/computes/aida3/">AIDA3</a>]
 </div>
 </div>
