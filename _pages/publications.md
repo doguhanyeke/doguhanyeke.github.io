@@ -57,11 +57,9 @@ Wear's my Data? Understanding the Cross-Device Runtime Permission Model in Weara
 </div>
 
 <div class="publication-conference">
-IEEE Security and Privacy (S&P), 2023
+IEEE Security and Privacy (S&P), 2024
 </div>
 
 <div class="publication-links">
-[<a href="https://research.google/pubs/wears-my-data-understanding-the-cross-device-runtime-permission-model-in-wearables/">PDF</a>]
-[<a href="https://github.com/purseclab/WearOS">Code</a>]
-[<a href="https://www.youtube.com/watch?v=EWrEsDJ084c&t=3s&pp=ygUSd2VhcidzIGlzIG15IGRhdGEg">Video</a>]
+[<a href="https://research.google/pubs/wears-my-data-understanding-the-cross-device-runtime-permission-model-in-wearables/">[Paper]</a>]
 </div>
