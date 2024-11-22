@@ -3,39 +3,49 @@ title: "Testbeds"
 layout: single
 permalink: /testbeds/
 author_profile: true
+classes: wide
 ---
 
 <style>
-.page__content p {
+.page__content {
     font-size: 1em;
-    line-height: 1.6;
+}
+
+.testbed-intro {
+    font-size: 1em;
+    margin-bottom: 3em;
+}
+
+.testbed-item {
+    font-size: 1em;
     margin-bottom: 1.5em;
 }
 
-.intro-text {
-    margin-bottom: 4em !important;
-}
-
-.testbed-section {
-    font-size: 1em;
-    margin-top: 2em;
-}
-
-h2 {
-    font-size: 1.2em !important;
-    margin-top: 1.5em !important;
-    margin-bottom: 1em !important;
+.testbed-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
 }
 </style>
 
-<div class="page__content">
-<div class="intro-text">
+<div class="testbed-intro">
 In addition to publishing research papers, I contribute to the development of realistic testbeds and digital twins to bridge theoretical insights with practical applications. My work spans critical domains, including water treatment plants, chemical plants, and multi-robot swarm navigation and communication. These efforts focus on enhancing system resilience, mitigating vulnerabilities, and closing the sim-to-real gap in industrial control systems (ICS) and cyber-physical systems (CPS).
 </div>
 
-## ICS testbed on minimega [[Sandia](https://www.sandia.gov/)] partnership
+<div class="testbed-item">
+<div class="testbed-title">
+ICS testbed on minimega [<a href="https://www.sandia.gov/">Sandia</a> partnership]
+</div>
+</div>
 
-## Chemical Plant and Water Treatment Plant [[NSF ACTION GATE](https://action.ucsb.edu/)]
+<div class="testbed-item">
+<div class="testbed-title">
+Chemical Plant and Water Treatment Plant [<a href="https://action.ucsb.edu/">NSF ACTION GATE</a>]
+</div>
+</div>
 
-## Distributed Robot Swarm Simulation [[NSF ACTION GATE](https://action.ucsb.edu/)]
+<div class="testbed-item">
+<div class="testbed-title">
+Distributed Robot Swarm Simulation [<a href="https://action.ucsb.edu/">NSF ACTION GATE</a>]
+</div>
 </div>
