@@ -2,7 +2,7 @@
 main:
   - title: "Publications"
     url: "/publications"
-  - title: "Testbeds"
+  - title: "Research Testbeds"
     url: "/testbeds"
   #- title: "About"
   #  url: /about/

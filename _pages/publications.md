@@ -61,5 +61,5 @@ IEEE Security and Privacy (S&P), 2024
 </div>
 
 <div class="publication-links">
-[<a href="https://research.google/pubs/wears-my-data-understanding-the-cross-device-runtime-permission-model-in-wearables/">[Paper]</a>]
+<a href="https://research.google/pubs/wears-my-data-understanding-the-cross-device-runtime-permission-model-in-wearables/">[Paper]</a>
 </div>
