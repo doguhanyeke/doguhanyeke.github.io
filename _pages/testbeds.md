@@ -13,7 +13,7 @@ classes: wide
 
 .testbed-intro {
     font-size: 1em;
-    margin-bottom: 3em;
+    margin-bottom: 2em;
 }
 
 .testbed-item {
@@ -37,15 +37,24 @@ In addition to publishing research papers, I contribute to the development of re
 ICS testbed on minimega [<a href="https://www.sandia.gov/">Sandia</a> partnership]
 </div>
 </div>
+<div class="testbed-intro">
+Will be updated.
+</div>
 
 <div class="testbed-item">
 <div class="testbed-title">
 Chemical Plant and Water Treatment Plant [<a href="https://action.ucsb.edu/">NSF ACTION GATE</a>]
 </div>
 </div>
+<div class="testbed-intro">
+Will be updated.
+</div>
 
 <div class="testbed-item">
 <div class="testbed-title">
 Distributed Robot Swarm Simulation [<a href="https://www.purdue.edu/computes/aida3/">AIDA3</a>]
 </div>
+</div>
+<div class="testbed-intro">
+Will be updated.
 </div>
