@@ -7,18 +7,18 @@ author_profile: true
 
 <style>
 .page__content p {
-    font-size: 1.1em;
+    font-size: 1.em;
     line-height: 1.6;
     margin-bottom: 1.5em;
 }
 
 .testbed-section {
-    font-size: 1.2em;
+    font-size: 1em;
     margin-top: 2em;
 }
 
 h2 {
-    font-size: 1.5em !important;
+    font-size: 1em !important;
     margin-top: 1.5em !important;
     margin-bottom: 1em !important;
 }
