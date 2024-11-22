@@ -30,12 +30,11 @@ h2 {
 
 <div class="page__content">
 <div class="intro-text">
-In addition to publishing research papers, I also contribute developing realistic testbeds and digital twins to bridge theoretical insights with practical applications. My work spans critical domains, including water treatment plants, chemical plants, and multi-robot swarm navigation and communication. These efforts aim to enhance system resilience, mitigate vulnerabilities, and close the sim-to-real gap in industrial control systems (ICS) and cyber-physical systems (CPS).
+In addition to publishing research papers, I contribute to the development of realistic testbeds and digital twins to bridge theoretical insights with practical applications. My work spans critical domains, including water treatment plants, chemical plants, and multi-robot swarm navigation and communication. These efforts focus on enhancing system resilience, mitigating vulnerabilities, and closing the sim-to-real gap in industrial control systems (ICS) and cyber-physical systems (CPS).
 </div>
 
-## ICS testbed on minimega [[Sandia](https://www.sandia.gov/) partnership]
+<h2>ICS testbed on minimega [[Sandia](https://www.sandia.gov/) partnership]</h2>
 
-## Chemical Plant and Water Treatment Plant [[NSF ACTION GATE](https://action.ucsb.edu/)]
+<h2>Chemical Plant and Water Treatment Plant [[NSF ACTION GATE](https://action.ucsb.edu/)]</h2>
 
-## Distributed Robot Swarm Simulation [[NSF ACTION GATE](https://action.ucsb.edu/)]
-</div>
+<h2>Distributed Robot Swarm Simulation [[NSF ACTION GATE](https://action.ucsb.edu/)]</h2>
