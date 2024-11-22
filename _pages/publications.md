@@ -8,11 +8,11 @@ classes: wide
 
 <style>
 .page__content {
-    font-size: 1.1em;
+    font-size: 1em;
 }
 
 .publication-year {
-    font-size: 1.5em;
+    font-size: 1em;
     font-weight: bold;
     margin-top: 1.5em;
     margin-bottom: 1em;
@@ -20,13 +20,13 @@ classes: wide
 }
 
 .publication-title {
-    font-size: 1.2em;
+    font-size: 1em;
     font-style: italic;
     margin-bottom: 0.5em;
 }
 
 .publication-authors {
-    font-size: 1.1em;
+    font-size: 1em;
     margin-bottom: 0.5em;
 }
 
@@ -52,7 +52,6 @@ Wear's my Data? Understanding the Cross-Device Runtime Permission Model in Weara
 
 <div class="publication-links">
 [<a href="https://research.google/pubs/wears-my-data-understanding-the-cross-device-runtime-permission-model-in-wearables/">PDF</a>]
-[<a href="#">Code</a>]
-[<a href="#">Video</a>]
-[<a href="#">Slides</a>]
+[<a href="https://github.com/purseclab/WearOS">Code</a>]
+[<a href="https://www.youtube.com/watch?v=EWrEsDJ084c&t=3s&pp=ygUSd2VhcidzIGlzIG15IGRhdGEg">Video</a>]
 </div>
