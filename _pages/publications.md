@@ -25,6 +25,12 @@ classes: wide
     margin-bottom: 0.5em;
 }
 
+.publication-conference {
+    font-size: 1em;
+    font-style: italic;
+    margin-bottom: 0.5em;
+}
+
 .publication-authors {
     font-size: 1em;
     margin-bottom: 0.5em;
@@ -48,6 +54,10 @@ Wear's my Data? Understanding the Cross-Device Runtime Permission Model in Weara
 
 <div class="publication-authors">
 <strong>Doguhan Yeke</strong>, Muhammad Ibrahim, Guliz Seray Tuncay, Habiba Farrukh, Abdullah Imran, Antonio Bianchi, and Z. Berkay Celik
+</div>
+
+<div class="publication-conference">
+IEEE Security and Privacy (S&P), 2023
 </div>
 
 <div class="publication-links">
