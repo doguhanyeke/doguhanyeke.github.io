@@ -37,8 +37,12 @@ In addition to publishing research papers, I contribute to the development of re
 ICS testbed on minimega [<a href="https://www.sandia.gov/">Sandia</a> partnership]
 </div>
 </div>
+<p align="center">
+<img src="/assets/images/sandia.jpeg" width="500">
+<br>
+</p>
 <div class="testbed-intro">
-Will be updated.
+I led a collaborative project with Sandia National Labs to deploy and test cyber emulation tools on SOL4CE (Scalable Open Laboratory for Cyber Experimentation). Our team developed virtual environments for analyzing industrial control systems, focusing on two key case studies: a chemical plant simulator and manufacturing plants. We successfully identified and demonstrated critical vulnerabilities, including sensor spoofing attacks and control channel exploits. The project utilized Sceptre, a framework combining Minimega for VM orchestration and Phenix for configuration management. By implementing these testbeds in a controlled virtual environment, we enabled safe testing of security scenarios without risking physical infrastructure. This work advances our understanding of ICS vulnerabilities while providing a platform for future cybersecurity research and training.
 </div>
 
 <div class="testbed-item">
