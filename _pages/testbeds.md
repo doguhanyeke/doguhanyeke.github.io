@@ -62,7 +62,7 @@ Distributed Robot Swarm Simulation [<a href="https://www.purdue.edu/computes/aid
 </div>
 </div>
 <p align="center" style="margin-top: 10px; margin-bottom: 10px;">
-<img src="/assets/images/swarm.jpg" height="150" width="300">
+<img src="/assets/images/swarm.jpg" height="300" width="600">
 <br>
 </p>
 <div class="testbed-intro">
