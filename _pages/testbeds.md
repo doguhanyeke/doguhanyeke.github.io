@@ -38,7 +38,7 @@ ICS testbed on minimega [<a href="https://www.sandia.gov/">Sandia</a> partnershi
 </div>
 </div>
 <p align="center" style="margin-top: 10px; margin-bottom: 10px;">
-<img src="/assets/images/sandia2.jpg" height="200" width="400">
+<img src="/assets/images/sandia2.jpg" height="150" width="300">
 <br>
 </p>
 <div class="testbed-intro">
