@@ -52,8 +52,22 @@ I led a collaborative project with Sandia National Labs to deploy and test cyber
 Chemical Plant and Water Treatment Plant [<a href="https://action.ucsb.edu/">NSF ACTION GATE</a>]
 </div>
 </div>
+<div style="display: flex; justify-content: space-between; margin: 20px 0;">
+    <div style="width: 48%;">
+        <video width="100%" controls>
+            <source src="/assets/images/video1.mp4" type="video/mp4">
+        </video>
+        <p align="center">Attack agent</p>
+    </div>
+    <div style="width: 48%;">
+        <video width="100%" controls>
+            <source src="/assets/images/video2.mp4" type="video/mp4">
+        </video>
+        <p align="center">Defense Agent</p>
+    </div>
+</div>
 <div class="testbed-intro">
-Will be updated.
+In collaboration with researchers at UCSB and Purdue, I led the development of GATE, an AWS-based test environment for evaluating industrial control systems (ICS) security research. GATE features a digital twin of two critical components: a chemical plant simulating hazardous exothermic reactions, and a water treatment plant with PLC-controlled water purification processes. Our team created an environment that enables researchers to safely validate attack detection mechanisms, test defense strategies, and evaluate security tools in a controlled setting that accurately replicates real industrial processes.
 </div>
 
 <div class="testbed-item">
