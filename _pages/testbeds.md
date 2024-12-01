@@ -37,7 +37,7 @@ In addition to publishing research papers, I contribute to the development of re
 ICS testbed on minimega [<a href="https://www.sandia.gov/">Sandia</a> partnership]
 </div>
 </div>
-<p align="center">
+<p align="center" style="margin-top: 10px; margin-bottom: 10px;">
 <img src="/assets/images/sandia2.jpg" height="200" width="400">
 <br>
 </p>
