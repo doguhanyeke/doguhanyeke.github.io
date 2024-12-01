@@ -43,6 +43,7 @@ ICS testbed on minimega [<a href="https://www.sandia.gov/">Sandia</a> partnershi
 </p>
 <div class="testbed-intro">
 I led a collaborative project with Sandia National Labs to deploy and test cyber emulation tools on SOL4CE (Scalable Open Laboratory for Cyber Experimentation). Our team developed virtual environments for analyzing industrial control systems, focusing on two key case studies: a chemical plant simulator and manufacturing plants. We successfully identified and demonstrated critical vulnerabilities, including sensor spoofing attacks and control channel exploits. The project utilized Sceptre, a framework combining Minimega for VM orchestration and Phenix for configuration management. By implementing these testbeds in a controlled virtual environment, we enabled safe testing of security scenarios without risking physical infrastructure. This work advances our understanding of ICS vulnerabilities while providing a platform for future cybersecurity research and training.
+<br>
 [<a href="https://www.cerias.purdue.edu/research/projects/home/detail/339/deploying_cyber_emulation_modeling_and_analysis_tools_on_the_sol4ce">Project</a>]
 </div>
 
@@ -60,6 +61,10 @@ Will be updated.
 Distributed Robot Swarm Simulation [<a href="https://www.purdue.edu/computes/aida3/">AIDA3</a>]
 </div>
 </div>
+<p align="center" style="margin-top: 10px; margin-bottom: 10px;">
+<img src="/assets/images/swarm.jpg" height="150" width="300">
+<br>
+</p>
 <div class="testbed-intro">
-Will be updated.
+We developed a distributed robot swarm simulation framework by extending a single-UAV simulator to support multi-robot systems. The framework integrates Gazebo's physics engine with PX4 Autopilot, enabling high-fidelity physics simulation with accurate sensor noise, dynamics, and environmental interactions. Our implementation uses ROS topics for inter-robot communication and adds support for dynamic waypoints using multiple collision avoidance algorithms. Written in Python and C++, the framework effectively simulates environmental changes, vehicle dynamics, and real-time communication between robots in swarm scenarios.
 </div>
