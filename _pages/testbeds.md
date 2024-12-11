@@ -35,6 +35,16 @@ classes: wide
    color: #494e52;
    margin-bottom: 1em;
 }
+
+h1.page__title {
+    color: #494e52 !important;
+    font-weight: bold;
+}
+
+.page__title.p-name {
+    color: #494e52 !important;
+    font-weight: bold;
+}
 </style>
 
 <div class="testbed-intro">
