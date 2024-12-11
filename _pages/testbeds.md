@@ -45,6 +45,11 @@ h1.page__title {
     color: #494e52 !important;
     font-weight: bold;
 }
+
+.page__title a {
+    color: #494e52 !important;
+    text-decoration: none;
+}
 </style>
 
 <div class="testbed-intro">
