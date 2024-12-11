@@ -7,6 +7,10 @@ classes: wide
 ---
 
 <style>
+.page__title {
+    color: #494e52;
+}
+
 .page__content {
     font-size: 1em;
 }
@@ -23,6 +27,7 @@ classes: wide
     font-size: 1em;
     font-style: italic;
     margin-bottom: 0.5em;
+    color: #494e52;
 }
 
 .publication-conference {

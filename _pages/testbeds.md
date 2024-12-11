@@ -7,6 +7,10 @@ classes: wide
 ---
 
 <style>
+.page__title {
+    color: #494e52;
+}
+
 .page__content {
    font-size: 1em;
    color: #494e52;
