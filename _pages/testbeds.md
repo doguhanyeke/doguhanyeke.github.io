@@ -8,7 +8,8 @@ classes: wide
 
 <style>
 .page__title {
-    color: #494e52;
+    color: #494e52 !important;
+    font-weight: bold;
 }
 
 .page__content {
