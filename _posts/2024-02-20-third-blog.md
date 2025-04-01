@@ -50,11 +50,16 @@ classes: wide
 .read-time-icon {
     margin-right: 0.2em;
 }
+
+.blog-content {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
 </style>
 
 <div class="blog-section">
     <div class="blog-section-title">Inputs</div>
-    <ul>
+    <ul class="blog-content">
         <li><strong>Radar-based:</strong> Explanation.</li>
         <li><strong>Vision-based:</strong> Explanation.</li>
         <li><strong>Sound-based:</strong> Explanation.</li>

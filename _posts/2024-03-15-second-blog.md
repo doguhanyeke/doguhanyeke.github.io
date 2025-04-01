@@ -50,17 +50,21 @@ classes: wide
 .read-time-icon {
     margin-right: 0.2em;
 }
+
+.blog-content {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
 </style>
 
-
 <div class="blog-section">
-    <p>With the growing adoption of drones, new security and privacy challenges have emerged. In this post, I'll discuss some key insights for the UTM.</p>
+    <p class="blog-content">With the growing adoption of drones, new security and privacy challenges have emerged. In this post, I'll discuss some key insights for the UTM.</p>
 </div>
 
 <div class="blog-section">
     <div class="blog-section-title">UTM</div>
-    <p>Topics:</p>
-    <ul>
+    <p class="blog-content">Topics:</p>
+    <ul class="blog-content">
         <li><strong>FAA + NASA</strong> Explanation.</li>
         <li><strong>UTM vs ATM:</strong> Explanation.</li>
         <li><strong>Motivation of UTM:</strong> Explanation.</li>

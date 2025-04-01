@@ -45,21 +45,26 @@ classes: wide
 .read-time-icon {
     margin-right: 0.2em;
 }
+
+.blog-content {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
 </style>
 
 <div class="blog-section">
-    <p>My experience in Tree of Thoughts (ToT)</p>
+    <p class="blog-content">My experience in Tree of Thoughts (ToT)</p>
 </div>
 
 <div class="blog-section">
     <div class="blog-section-title">What is ToT?</div>
-    <p>Explanation.</p>
+    <p class="blog-content">Explanation.</p>
 </div>
 
 <div class="blog-section">
     <div class="blog-section-title">CoT vs ToT.</div>
-    <p>Explanation.</p>
-    <ul>
+    <p class="blog-content">Explanation.</p>
+    <ul class="blog-content">
         <li><strong>I/O:</strong> Explanation.</li>
         <li><strong>CoT:</strong> Explanation.</li>
         <li><strong>ToT:</strong> Explanation.</li>
