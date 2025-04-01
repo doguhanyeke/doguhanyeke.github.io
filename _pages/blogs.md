@@ -10,39 +10,42 @@ classes: wide
 .page__title {
     color: #494e52 !important;
     font-weight: bold;
+    font-size: 2.5em;
 }
 
 .page__content {
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 .blog-item {
-    margin-bottom: 2em;
-    padding-bottom: 1em;
+    margin-bottom: 2.5em;
+    padding-bottom: 1.5em;
     border-bottom: 1px solid #f2f3f3;
 }
 
 .blog-title {
-    font-size: 1.2em;
+    font-size: 1.5em;
     font-weight: bold;
     margin-bottom: 0.5em;
     color: #494e52;
 }
 
 .blog-date {
-    font-size: 0.9em;
+    font-size: 1.1em;
     color: #7a8288;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.8em;
 }
 
 .blog-excerpt {
-    font-size: 1em;
-    margin-bottom: 0.5em;
+    font-size: 1.2em;
+    margin-bottom: 0.8em;
     color: #494e52;
+    line-height: 1.6;
 }
 
 .blog-read-more {
     font-weight: bold;
+    font-size: 1.1em;
 }
 </style>
 
