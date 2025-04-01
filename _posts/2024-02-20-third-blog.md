@@ -10,11 +10,11 @@ classes: wide
 .page__title {
     color: #494e52 !important;
     font-weight: bold;
-    font-size: 2.5em;
+    font-size: 2em;
 }
 
 .page__content {
-    font-size: 1.2em;
+    font-size: 1.4em;
     color: #494e52;
     line-height: 1.7;
 }
@@ -30,7 +30,7 @@ classes: wide
 }
 
 .blog-section-title {
-    font-size: 1.5em;
+    font-size: 1.3em;
     font-weight: bold;
     margin-bottom: 0.8em;
     color: #494e52;
