@@ -52,13 +52,13 @@ classes: wide
 }
 
 .page__content p {
-    font-size: 1.3em !important;
+    font-size: 1.2em !important;
     line-height: 1.6 !important;
 }
 
 .page__content ul,
 .page__content li {
-    font-size: 1.1em !important;
+    font-size: 1em !important;
     line-height: 1.5 !important;
 }
 </style>
