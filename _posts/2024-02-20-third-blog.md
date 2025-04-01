@@ -18,48 +18,51 @@ classes: wide
     line-height: 1.5;
 }
 
-.blog-date {
+.page__content .blog-date {
     font-size: 1em;
     color: #7a8288;
     margin-bottom: 1em;
 }
 
-.blog-section {
+.page__content .blog-section {
     margin-bottom: 1.5em;
 }
 
-.blog-section-title {
+.page__content .blog-section-title {
     font-size: 1.2em;
     font-weight: bold;
     margin-bottom: 0.8em;
     color: #494e52;
 }
 
-.blog-image {
+.page__content .blog-image {
     text-align: center;
     margin: 1.5em 0;
 }
 
-.read-time {
+.page__content .read-time {
     font-size: 1em;
     color: #7a8288; 
     margin-top: 1em;
     margin-bottom: 1.5em;
 }
 
-.read-time-icon {
+.page__content .read-time-icon {
     margin-right: 0.2em;
 }
 
-.blog-content {
-    font-size: 1.5em;
-    line-height: 1.6;
+.page__content .blog-content,
+.page__content p,
+.page__content ul,
+.page__content li {
+    font-size: 1.8em !important;
+    line-height: 1.6 !important;
 }
 </style>
 
 <div class="blog-section">
     <div class="blog-section-title">Inputs</div>
-    <ul class="blog-content">
+    <ul>
         <li><strong>Radar-based:</strong> Explanation.</li>
         <li><strong>Vision-based:</strong> Explanation.</li>
         <li><strong>Sound-based:</strong> Explanation.</li>
