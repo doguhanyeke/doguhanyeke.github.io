@@ -52,9 +52,6 @@ classes: wide
 }
 </style>
 
-<div class="read-time">
-    <span>📅 March 15, 2024</span> • <span>🕒 less than 1 minute read</span>
-</div>
 
 <div class="blog-section">
     <p>With the growing adoption of drones, new security and privacy challenges have emerged. In this post, I'll discuss some key insights for the UTM.</p>

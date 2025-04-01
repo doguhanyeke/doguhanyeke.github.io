@@ -4,8 +4,8 @@ main:
     url: "/publications"
   - title: "Research Testbeds"
     url: "/testbeds"
-  - title: "Blogs"
-    url: "/blogs"
+  #- title: "Blogs"
+  #  url: "/blogs"
   #- title: "About"
   #  url: /about/
   #- title: "Sample Posts"

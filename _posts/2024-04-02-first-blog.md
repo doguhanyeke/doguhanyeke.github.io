@@ -47,10 +47,6 @@ classes: wide
 }
 </style>
 
-<div class="read-time">
-    <span>📅 April 2, 2024</span> • <span>🕒 less than 1 minute read</span>
-</div>
-
 <div class="blog-section">
     <p>My experience in Tree of Thoughts (ToT)</p>
 </div>
