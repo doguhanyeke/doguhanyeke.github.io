@@ -1,7 +1,7 @@
 ---
 title: "Tree of Thoughts (ToT)"
-layout: single
-permalink: /blogs/first-blog/
+layout: blog
+permalink: /blogs/tot/
 author_profile: true
 classes: wide
 ---
@@ -36,7 +36,7 @@ classes: wide
 }
 </style>
 
-<div class="blog-date">Published on April 1, 2025</div>
+<div class="blog-date">Published on April 2, 2024</div>
 
 <div class="blog-section">
     <p>My experience in Tree of Thoughts (ToT)</p>

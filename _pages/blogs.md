@@ -51,36 +51,33 @@ classes: wide
         <a href="/blogs/tot/">Tree of Thoughts (ToT)</a>
     </div>
     <div class="blog-date">
-        April 1, 2025
+        April 2, 2024
     </div>
     <div class="blog-excerpt">
         In this blog post, I discuss some insights for newcomers to the Tree of Thoughts (ToT).
     </div>
-    <a href="/blogs/tot/" class="blog-read-more">Read More →</a>
 </div>
 
 <div class="blog-item">
     <div class="blog-title">
-        <a href="/blogs/utm-security/">Uncrewed Traffic Management</a>
+        <a href="/blogs/utm/">Uncrewed Traffic Management (UTM)</a>
     </div>
     <div class="blog-date">
-        April 1, 2025
+        March 15, 2024
     </div>
     <div class="blog-excerpt">
         In this blog post, I describe the need for UTM in addition to ATM, Part 107 standard, Remote ID (RID), and the technology behind drone collision avoidance systems.
     </div>
-    <a href="/blogs/utm-security/" class="blog-read-more">Read More →</a>
 </div>
 
 <div class="blog-item">
     <div class="blog-title">
-        <a href="/blogs/planning-fingerprinting/">Fingerprinting Multi-robot Planning Algorithms</a>
+        <a href="/blogs/fingerprinting/">Fingerprinting Multi-robot Planning Algorithms</a>
     </div>
     <div class="blog-date">
-        April 1, 2025
+        February 20, 2024
     </div>
     <div class="blog-excerpt">
         This post explores my experience fingerprinting Multi-robot Planning Algorithms, discussing the inputs, challenges and approaches.
     </div>
-    <a href="/blogs/planning-fingerprinting/" class="blog-read-more">Read More →</a>
 </div> 

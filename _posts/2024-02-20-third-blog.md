@@ -1,7 +1,7 @@
 ---
 title: "Fingerprinting Multi-robot Planning Algorithms"
-layout: single
-permalink: /blogs/planning-fingerprinting/
+layout: blog
+permalink: /blogs/fingerprinting/
 author_profile: true
 classes: wide
 ---
@@ -41,7 +41,7 @@ classes: wide
 }
 </style>
 
-<div class="blog-date">Published on April 1, 2025</div>
+<div class="blog-date">Published on February 20, 2024</div>
 
 <div class="blog-section">
     <div class="blog-section-title">Inputs</div>

@@ -1,7 +1,7 @@
 ---
 title: "Uncrewed Traffic Management (UTM)"
-layout: single
-permalink: /blogs/utm-security/
+layout: blog
+permalink: /blogs/utm/
 author_profile: true
 classes: wide
 ---
@@ -41,7 +41,7 @@ classes: wide
 }
 </style>
 
-<div class="blog-date">Published on April 1, 2025</div>
+<div class="blog-date">Published on March 15, 2024</div>
 
 <div class="blog-section">
     <p>With the growing adoption of drones, new security and privacy challenges have emerged. In this post, I'll discuss some key insights for the UTM.</p>
