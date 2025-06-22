@@ -70,6 +70,8 @@ IEEE Security and Privacy (S&P), 2024
 <a href="https://research.google/pubs/wears-my-data-understanding-the-cross-device-runtime-permission-model-in-wearables/">[Paper]</a>
 </div>
 
+<div class="publication-year">2025</div>
+
 <div class="publication-title">
 Automated Discovery of Semantic Attacks in Multi-Robot Navigation Systems
 </div>
