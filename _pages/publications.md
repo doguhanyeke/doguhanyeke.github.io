@@ -69,3 +69,19 @@ IEEE Security and Privacy (S&P), 2024
 <div class="publication-links">
 <a href="https://research.google/pubs/wears-my-data-understanding-the-cross-device-runtime-permission-model-in-wearables/">[Paper]</a>
 </div>
+
+<div class="publication-title">
+Automated Discovery of Semantic Attacks in Multi-Robot Navigation Systems
+</div>
+
+<div class="publication-authors">
+<strong>Doguhan Yeke</strong>, Kartik A. Pant, Muslum Ozgur Ozmen, Hyungsub Kim, James M. Goppert, Inseok Hwang, Antonio Bianchi, and Z. Berkay Celik
+</div>
+
+<div class="publication-conference">
+USENIX Security, 2025
+</div>
+
+<div class="publication-links">
+<a href="https://doguhanyeke.github.io/">[Paper]</a>
+</div>
