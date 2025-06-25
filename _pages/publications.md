@@ -119,7 +119,7 @@ USENIX Security, 2025 (to appear)
 NSF AI Agent-based Cyber Threat Intelligence and Operation (ACTION), 2025
 </div>
 <div class="publication-links">
-<a href="/assets/posters/GATE Poster 2 - Purdue.pdf">Poster</a>
+<a href="/assets/posters/GATE-Poster-2-Purdue.pdf">Poster</a>
 </div>
 
 <div class="publication-title" style="margin-top:2em;">
@@ -133,7 +133,7 @@ James M. Goppert, Inseok Hwang, Antonio Bianchi, and Z. Berkay Celik
 NSF AI Agent-based Cyber Threat Intelligence and Operation (ACTION), 2025
 </div>
 <div class="publication-links">
-<a href="/assets/posters/GATE Poster 2 - Raven.pdf">Poster</a>
+<a href="/assets/posters/GATE-Poster-2-Raven.pdf">Poster</a>
 </div>
 
 <div class="publication-year">2024</div>
