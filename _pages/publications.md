@@ -119,7 +119,7 @@ USENIX Security, 2025 (to appear)
 NSF AI Agent-based Cyber Threat Intelligence and Operation (ACTION), 2025
 </div>
 <div class="publication-links">
-<a href="/assets/posters/GATE-Poster-2-Purdue.pdf">Poster</a>
+<a href="/assets/posters/GATE-Poster-1-Purdue.pdf">Poster</a>
 </div>
 
 <div class="publication-title" style="margin-top:2em;">
