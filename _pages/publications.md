@@ -54,24 +54,6 @@ classes: wide
 
 <h2>Conference Proceedings</h2>
 
-<div class="publication-year">2024</div>
-
-<div class="publication-title">
-Wear's my Data? Understanding the Cross-Device Runtime Permission Model in Wearables
-</div>
-
-<div class="publication-authors">
-<strong>Doguhan Yeke</strong>, Muhammad Ibrahim, Guliz Seray Tuncay, Habiba Farrukh, Abdullah Imran, Antonio Bianchi, and Z. Berkay Celik
-</div>
-
-<div class="publication-conference">
-IEEE Security and Privacy (S&P), 2024
-</div>
-
-<div class="publication-links">
-<a href="https://research.google/pubs/wears-my-data-understanding-the-cross-device-runtime-permission-model-in-wearables/">[Paper]</a>
-</div>
-
 <div class="publication-year">2025</div>
 
 <div class="publication-title">
@@ -90,9 +72,27 @@ USENIX Security, 2025
 <a href="https://doguhanyeke.github.io/">[Paper]</a>
 </div>
 
+<div class="publication-year">2024</div>
+
+<div class="publication-title">
+Wear's my Data? Understanding the Cross-Device Runtime Permission Model in Wearables
+</div>
+
+<div class="publication-authors">
+<strong>Doguhan Yeke</strong>, Muhammad Ibrahim, Guliz Seray Tuncay, Habiba Farrukh, Abdullah Imran, Antonio Bianchi, and Z. Berkay Celik
+</div>
+
+<div class="publication-conference">
+IEEE Security and Privacy (S&P), 2024
+</div>
+
+<div class="publication-links">
+<a href="https://research.google/pubs/wears-my-data-understanding-the-cross-device-runtime-permission-model-in-wearables/">[Paper]</a>
+</div>
+
 <h2>Workshops, Posters and Shorter Papers</h2>
 
-<div class="publication-year">2024</div>
+<div class="publication-year">2025</div>
 
 <div class="publication-title">
 <em>Automated Discovery of Semantic Attacks in Multi-Robot Navigation Systems</em>
@@ -135,6 +135,8 @@ NSF AI Agent-based Cyber Threat Intelligence and Operation (ACTION), 2025
 <div class="publication-links">
 <a href="#">Poster</a>
 </div>
+
+<div class="publication-year">2024</div>
 
 <div class="publication-title" style="margin-top:2em;">
 <em>Wear's my Data? Understanding the Cross-Device Runtime Permission Model in Wearables</em>
