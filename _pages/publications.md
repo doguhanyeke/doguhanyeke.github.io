@@ -65,7 +65,7 @@ Automated Discovery of Semantic Attacks in Multi-Robot Navigation Systems
 </div>
 
 <div class="publication-conference">
-USENIX Security, 2025
+USENIX Security, 2025 (to appear)
 </div>
 
 <div class="publication-links">
@@ -90,7 +90,7 @@ IEEE Security and Privacy (S&P), 2024
 <a href="https://research.google/pubs/wears-my-data-understanding-the-cross-device-runtime-permission-model-in-wearables/">[Paper]</a>
 </div>
 
-<h2>Workshops, Posters and Shorter Papers</h2>
+<h2>Workshops, Posters and Short Papers</h2>
 
 <div class="publication-year">2025</div>
 
@@ -119,7 +119,7 @@ USENIX Security, 2025 (to appear)
 NSF AI Agent-based Cyber Threat Intelligence and Operation (ACTION), 2025
 </div>
 <div class="publication-links">
-<a href="#">Poster</a>
+<a href="/assets/posters/GATE Poster 2 - Purdue.pdf">Poster</a>
 </div>
 
 <div class="publication-title" style="margin-top:2em;">
@@ -133,7 +133,7 @@ James M. Goppert, Inseok Hwang, Antonio Bianchi, and Z. Berkay Celik
 NSF AI Agent-based Cyber Threat Intelligence and Operation (ACTION), 2025
 </div>
 <div class="publication-links">
-<a href="#">Poster</a>
+<a href="/assets/posters/GATE Poster 2 - Raven.pdf">Poster</a>
 </div>
 
 <div class="publication-year">2024</div>
@@ -149,7 +149,7 @@ Abdullah Imran, Antonio Bianchi, and Z. Berkay Celik
 IEEE S&P, 2024
 </div>
 <div class="publication-links">
-<a href="#">Poster</a>
+<a href="/assets/posters/poster_WearOS.pdf">Poster</a>
 </div>
 
 <div class="publication-title" style="margin-top:2em;">
@@ -162,5 +162,5 @@ IEEE S&P, 2024
 NSF AI Agent-based Cyber Threat Intelligence and Operation (ACTION), 2024
 </div>
 <div class="publication-links">
-<a href="#">Poster</a>
+<a href="/assets/posters/Action_AI_Dogu_Poster_GATE.pdf">Poster</a>
 </div>
