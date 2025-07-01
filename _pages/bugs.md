@@ -18,7 +18,7 @@ classes: wide
 </style>
 
 <div class="bugs-intro">
-This page highlights security vulnerabilities and bugs I have discovered, including those reported through bug bounty programs and responsible disclosure to vendors.
+This page highlights security vulnerabilities and bugs we have discovered, including those reported through bug bounty programs and responsible disclosure to vendors.
 </div>
 
 <!-- Add your detailed bug discovery content here, e.g., bug titles, affected systems, dates, and outcomes. -->
@@ -46,10 +46,6 @@ This page highlights security vulnerabilities and bugs I have discovered, includ
     <img src="/assets/images/figure2_wearos_location_toggle.jpg" alt="Wear OS Location Toggle" style="max-width: 300px; display: block; margin-left: auto; margin-right: auto;">
     <div style="font-size: 0.95em; color: #555; margin-top: 0.5em;"><i>Figure 2: Location permission toggle on the smartwatch.</i></div>
   </div>
-  <br>
-  <b>Disclosure & Outcome:</b><br>
-  We responsibly disclosed this vulnerability to Google, who acknowledged the issue and awarded us a bug bounty.
-  <br><br>
   <b>Update in Newer Wear OS Versions:</b><br>
   Android & Wear are working on a platform-level solution highlighted by our paper. For more information, see the <a href="https://developer.android.com/training/wearables/apps/permissions" target="_blank">official Android developer documentation</a>.
 </div>
