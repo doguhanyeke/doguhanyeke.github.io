@@ -26,7 +26,6 @@ This page highlights security vulnerabilities and bugs we have discovered, inclu
 <div style="margin-bottom: 2em;"></div>
 <div>
   <b>Misinforming Users: Location Permission Misleading in Wear OS</b><br>
-  <i>Reported to Google, acknowledged with a bug bounty</i>
   <br><br>
   <b>Description:</b><br>
   We discovered that the location permission prompt shown during the pairing process on Wear OS 2 misinforms users. When a user installs a fitness tracking app that requires location permission on both the wearable and its companion app, the system prompt suggests that location data will only be used on the wearable. However, even if the user denies location permission on the phone, the companion app can still access and transmit location data from the wearable to the Internet, misleading users about their privacy.
@@ -46,6 +45,10 @@ This page highlights security vulnerabilities and bugs we have discovered, inclu
     <img src="/assets/images/figure2_wearos_location_toggle.jpg" alt="Wear OS Location Toggle" style="max-width: 300px; display: block; margin-left: auto; margin-right: auto;">
     <div style="font-size: 0.95em; color: #555; margin-top: 0.5em;"><i>Figure 2: Location permission toggle on the smartwatch.</i></div>
   </div>
+  <br>
+  <b>Disclosure & Outcome:</b><br>
+  We responsibly disclosed this vulnerability to Google, who acknowledged the issue and awarded us a bug bounty.
+  <br><br>
   <b>Update in Newer Wear OS Versions:</b><br>
   Android & Wear are working on a platform-level solution highlighted by our paper. For more information, see the <a href="https://developer.android.com/training/wearables/apps/permissions" target="_blank">official Android developer documentation</a>.
 </div>
