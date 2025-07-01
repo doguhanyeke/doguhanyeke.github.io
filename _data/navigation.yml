@@ -6,6 +6,8 @@ main:
     url: "/testbeds"
   - title: "Teaching"
     url: "/teaching"
+  - title: "Bugs Discovered"
+    url: "/bugs"
   #- title: "Blogs"
   #  url: "/blogs"
   #- title: "About"
