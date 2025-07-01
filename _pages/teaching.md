@@ -31,8 +31,9 @@ This page highlights my teaching experience, including courses I have served as 
   <b>CS 251: Data Structures (Undergraduate) [Spring 2022, Fall 2021]</b> [<a href="https://www.cs.purdue.edu/academic-programs/courses/canonical/cs251.html" target="_blank">Syllabus</a>]<br/>
   This course covers the analysis and implementation of fundamental data structures and algorithms. Topics include running time analysis, abstract data types, arrays, linked lists, stacks, queues, trees, binary trees, searching and sorting algorithms, heaps, binary search trees, balanced search trees, hashing, union-find structures, spatial data structures, tries, string algorithms, and an introduction to graphs and graph algorithms. Students gain experience with both theoretical and practical aspects of data structures, preparing them for advanced coursework and software development.
 </div>
-<div style="margin-bottom: 1.5em;">
-In addition to my teaching experience at Purdue, I have also served as a teaching assistant for the following courses at my previous institutions.
+<hr>
+<div style="margin: 1.5em 0 1em 0; font-style: italic; color: #494e52;">
+  In addition to my teaching experience at Purdue, I have also served as a teaching assistant for the following courses at my previous institutions.
 </div>
 <div>
   <b>CEng492: Computer Engineering Design II</b> [<a href="https://catalog.metu.edu.tr/course.php?course_code=5710492" target="_blank">Catalog</a>]<br/>
