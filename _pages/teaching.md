@@ -32,8 +32,13 @@ This page highlights my teaching experience, including courses I have served as 
   This course covers the analysis and implementation of fundamental data structures and algorithms. Topics include running time analysis, abstract data types, arrays, linked lists, stacks, queues, trees, binary trees, searching and sorting algorithms, heaps, binary search trees, balanced search trees, hashing, union-find structures, spatial data structures, tries, string algorithms, and an introduction to graphs and graph algorithms. Students gain experience with both theoretical and practical aspects of data structures, preparing them for advanced coursework and software development.
 </div>
 <div style="margin-top: 1.5em;">
-  In addition to my teaching experience at Purdue, I have also served as a teaching assistant for the following courses at my previous institutions:<br/>
-  <b>CEng492:</b> Computer Engineering Design, <b>CEng489:</b> Introduction to Computer Security, <b>CEng350:</b> Software Engineering, and <b>CEng331:</b> Computer Organization.
+  In addition to my teaching experience at Purdue, I have also served as a teaching assistant for the following courses at my previous institutions:
+  <ul>
+    <li><b>CEng492: Computer Engineering Design II</b> – This capstone course focuses on the analysis, requirement specification, design, implementation, and testing phases of a computer system. Students work on real-life hardware/software projects, applying engineering methods to deliver professional-quality solutions. <a href="https://catalog.metu.edu.tr/course.php?course_code=5710492" target="_blank">[Catalog]</a></li>
+    <li><b>CEng489: Introduction to Computer Security</b> – Covers core concepts of computer security, including cryptography, authentication, access control, software and network security, intrusion detection, and legal/organizational aspects. Students gain foundational knowledge in both theory and practice of securing computer systems. <a href="https://eonur.ceng.metu.edu.tr/ceng489-introduction-to-computer-security/" target="_blank">[Catalog]</a></li>
+    <li><b>CEng350: Software Engineering</b> – Introduces software project management, requirements analysis, design techniques, quality assurance, testing, and maintenance. Emphasizes practical skills in planning, implementing, and managing software projects. <a href="https://catalog.metu.edu.tr/course.php?course_code=5710350" target="_blank">[Catalog]</a></li>
+    <li><b>CEng331: Computer Organization</b> – Explores microprogramming, I/O devices and interfaces, memory hierarchy, fast arithmetic, and RISC architectures. Students learn the fundamentals of how computers are organized and how hardware components interact. <a href="https://catalog.metu.edu.tr/course.php?prog=571&course_code=5710331" target="_blank">[Catalog]</a></li>
+  </ul>
 </div>
 
 <!-- Add your detailed teaching content here, e.g., course descriptions, semesters, and links to syllabi. --> 
