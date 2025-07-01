@@ -26,8 +26,6 @@ This page highlights security vulnerabilities and bugs we have discovered, inclu
 <div style="margin-bottom: 2em;"></div>
 <div>
   <b>Misinforming Users: Location Permission Misleading in Wear OS</b><br>
-  <br><br>
-  <b>Description:</b><br>
   We discovered that the location permission prompt shown during the pairing process on Wear OS 2 misinforms users. When a user installs a fitness tracking app that requires location permission on both the wearable and its companion app, the system prompt suggests that location data will only be used on the wearable. However, even if the user denies location permission on the phone, the companion app can still access and transmit location data from the wearable to the Internet, misleading users about their privacy.
   <div style="text-align:center; margin: 1.5em 0;">
     <img src="/assets/images/figure1_wearos_location_prompt.jpg" alt="Wear OS Location Prompt Misinforming Users" style="max-width: 400px; display: block; margin-left: auto; margin-right: auto;">
