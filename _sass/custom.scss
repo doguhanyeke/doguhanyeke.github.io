@@ -11,6 +11,8 @@
 }
 
 .main-content a,
-.main-content .publication-links a {
+.main-content .publication-links a,
+.main-content .publication-links a:link,
+.main-content .publication-links a:visited {
   color: #007bff !important;
 } 
