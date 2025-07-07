@@ -21,10 +21,7 @@ h2, h3, h4 {
   color: #494e52 !important;
   font-weight: bold;
 }
-</style>
 
-<div class="main-content">
-<style>
 .page__title {
     color: #494e52 !important;
     font-weight: bold;
@@ -34,6 +31,8 @@ h2, h3, h4 {
     color: #494e52;
 }
 </style>
+
+<div class="main-content">
 
 <div class="bugs-intro">
 This page highlights security vulnerabilities and bugs we have discovered, including those reported through bug bounty programs and responsible disclosure to vendors, acknowledged by Google with a bug bounty, $500.
