@@ -6,7 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-<div class="main-content">
 <style>
 .page__title {
     color: #494e52 !important;
@@ -51,6 +50,8 @@ classes: wide
     margin-right: 1em;
 }
 </style>
+
+<div class="main-content">
 
 <h2>Conference Proceedings</h2>
 
