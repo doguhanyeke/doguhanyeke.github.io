@@ -14,6 +14,7 @@ classes: wide
 
 .page__content {
     font-size: 1em;
+   color: #494e52;
 }
 
 .publication-year {
