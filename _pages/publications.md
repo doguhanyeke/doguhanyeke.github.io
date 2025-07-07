@@ -64,6 +64,15 @@ h1.page__title, h1.page-title, h1#page-title {
 .publication-links a {
     margin-right: 1em;
 }
+
+h2, h3, h4 {
+  color: #494e52 !important;
+  font-weight: bold;
+}
+.main-content b {
+  color: #494e52 !important;
+  font-weight: bold;
+}
 </style>
 
 <div class="main-content">
