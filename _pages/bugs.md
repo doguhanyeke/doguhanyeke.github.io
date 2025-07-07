@@ -48,6 +48,6 @@ This page highlights security vulnerabilities and bugs we have discovered, inclu
   We responsibly disclosed this vulnerability to Google, who acknowledged the issue and awarded us a bug bounty.
   <br><br>
   <b>Update in Newer Wear OS Versions:</b><br>
-  Android & Wear are working on a platform-level solution highlighted by our paper. For the updates in newer version, please see the <a href="https://developer.android.com/training/wearables/apps/permissions" target="_blank">official Android developer documentation</a>.
+  Android & Wear are working on a platform-level solution highlighted by our paper. For the updates in the newer version, please see the <a href="https://developer.android.com/training/wearables/apps/permissions" target="_blank">official Android developer documentation</a>.
 </div>
 <div style="margin-bottom: 2em;"></div> 
