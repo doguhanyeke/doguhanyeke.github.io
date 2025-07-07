@@ -18,7 +18,7 @@ classes: wide
 </style>
 
 <div class="bugs-intro">
-This page highlights security vulnerabilities and bugs we have discovered, including those reported through bug bounty programs and responsible disclosure to vendors.
+This page highlights security vulnerabilities and bugs we have discovered, including those reported through bug bounty programs and responsible disclosure to vendors, acknowledged by Google with a bug bounty, $500.
 </div>
 
 <!-- Add your detailed bug discovery content here, e.g., bug titles, affected systems, dates, and outcomes. -->
@@ -48,6 +48,6 @@ This page highlights security vulnerabilities and bugs we have discovered, inclu
   We responsibly disclosed this vulnerability to Google, who acknowledged the issue and awarded us a bug bounty.
   <br><br>
   <b>Update in Newer Wear OS Versions:</b><br>
-  Android & Wear are working on a platform-level solution highlighted by our paper. For more information, see the <a href="https://developer.android.com/training/wearables/apps/permissions" target="_blank">official Android developer documentation</a>.
+  Android & Wear are working on a platform-level solution highlighted by our paper. For the updates in newer version, please see the <a href="https://developer.android.com/training/wearables/apps/permissions" target="_blank">official Android developer documentation</a>.
 </div>
 <div style="margin-bottom: 2em;"></div> 
