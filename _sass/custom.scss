@@ -15,4 +15,17 @@
 .main-content .publication-links a:link,
 .main-content .publication-links a:visited {
   color: #007bff !important;
+}
+
+div.main-content div.publication-links a,
+div.main-content div.publication-links a:link,
+div.main-content div.publication-links a:visited,
+div.main-content div.publication-links a:active,
+div.main-content div.publication-links a:hover,
+div.main-content a,
+div.main-content a:link,
+div.main-content a:visited,
+div.main-content a:active,
+div.main-content a:hover {
+  color: #007bff !important;
 } 
