@@ -6,8 +6,12 @@ author_profile: true
 classes: wide
 ---
 
-<div class="main-content">
 <style>
+h1.page__title, h1.page-title, h1#page-title {
+  color: #494e52 !important;
+  font-weight: bold !important;
+}
+
 .page__title {
     color: #494e52 !important;
     font-weight: bold;
@@ -36,11 +40,6 @@ classes: wide
    margin-bottom: 1em;
 }
 
-h1.page__title {
-    color: #494e52 !important;
-    font-weight: bold;
-}
-
 .page__title.p-name {
     color: #494e52 !important;
     font-weight: bold;
@@ -51,6 +50,8 @@ h1.page__title {
     text-decoration: none;
 }
 </style>
+
+<div class="main-content">
 
 <div class="testbed-intro">
 In addition to publishing research papers, I contribute to the development of realistic testbeds and digital twins to bridge theoretical insights with practical applications. My work spans critical domains, including water treatment plants, chemical plants, and multi-robot swarm navigation and communication. These efforts focus on enhancing system resilience, mitigating vulnerabilities, and closing the sim-to-real gap in industrial control systems (ICS) and cyber-physical systems (CPS).
