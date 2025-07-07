@@ -7,14 +7,28 @@ classes: wide
 ---
 
 <style>
-h1.page__title, h1.page-title, h1#page-title, h1.page__title.p-name, h1.page-title.p-name, h1#page-title.p-name {
+h1.page__title, h1.page-title, h1#page-title {
   color: #494e52 !important;
   font-weight: bold !important;
 }
 
+.page__title {
+    color: #494e52 !important;
+    font-weight: bold;
+}
+
 .page__content {
-    font-size: 1em;
-   color: #494e52;
+   font-size: 1em;
+}
+
+.page__title.p-name {
+    color: #494e52 !important;
+    font-weight: bold;
+}
+
+.page__title a {
+    color: #494e52 !important;
+    text-decoration: none;
 }
 
 .publication-year {
