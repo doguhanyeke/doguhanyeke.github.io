@@ -6,6 +6,7 @@ author_profile: true
 classes: wide
 ---
 
+<div class="main-content">
 <style>
 .page__title {
     color: #494e52 !important;
@@ -81,4 +82,5 @@ February 20, 2024
 
 <div class="blog-excerpt">
 This post explores my experience fingerprinting Multi-robot Planning Algorithms, discussing the inputs, challenges and approaches.
+</div>
 </div> 

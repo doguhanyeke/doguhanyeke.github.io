@@ -6,6 +6,7 @@ author_profile: true
 classes: wide
 ---
 
+<div class="main-content">
 <style>
 .page__title {
     color: #494e52 !important;
@@ -105,4 +106,5 @@ Distributed Robot Swarm Simulation [<a href="https://www.purdue.edu/computes/aid
 </p>
 <div class="testbed-intro">
 We developed a distributed robot swarm simulation framework by extending a single-UAV simulator to support multi-robot systems. The framework integrates Gazebo's physics engine with PX4 Autopilot, enabling high-fidelity physics simulation with accurate sensor noise, dynamics, and environmental interactions. Our implementation uses ROS topics for inter-robot communication and adds support for dynamic waypoints using multiple collision avoidance algorithms. Written in Python and C++, the framework effectively simulates environmental changes, vehicle dynamics, and real-time communication between robots in swarm scenarios.
+</div>
 </div>

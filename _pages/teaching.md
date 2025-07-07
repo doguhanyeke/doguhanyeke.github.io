@@ -6,6 +6,7 @@ author_profile: true
 classes: wide
 ---
 
+<div class="main-content">
 <style>
 .page__title {
     color: #494e52 !important;
@@ -53,4 +54,5 @@ This page highlights my teaching experience, including courses I have served as 
 <div>
   <b>CEng331: Computer Organization</b> [<a href="https://catalog.metu.edu.tr/course.php?prog=571&course_code=5710331" target="_blank">Catalog</a>]<br/>
   Explores microprogramming, I/O devices and interfaces, memory hierarchy, fast arithmetic, and RISC architectures. Students learn the fundamentals of how computers are organized and how hardware components interact.
+</div>
 </div>

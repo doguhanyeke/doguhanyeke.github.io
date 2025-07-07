@@ -6,6 +6,7 @@ author_profile: true
 classes: wide
 ---
 
+<div class="main-content">
 <style>
 .page__title {
     color: #494e52 !important;
@@ -163,4 +164,5 @@ NSF AI Agent-based Cyber Threat Intelligence and Operation (ACTION), 2024
 </div>
 <div class="publication-links">
 <a href="/assets/posters/Action_AI_Dogu_Poster_GATE.pdf">Poster</a>
+</div>
 </div>
