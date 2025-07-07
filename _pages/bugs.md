@@ -11,6 +11,16 @@ h1.page__title, h1.page-title, h1#page-title, h1.page__title.p-name, h1.page-tit
   color: #494e52 !important;
   font-weight: bold !important;
 }
+
+h2, h3, h4 {
+  color: #494e52 !important;
+  font-weight: bold;
+}
+
+.main-content b {
+  color: #494e52 !important;
+  font-weight: bold;
+}
 </style>
 
 <div class="main-content">
