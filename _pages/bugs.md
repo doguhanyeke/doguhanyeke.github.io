@@ -7,7 +7,9 @@ classes: wide
 ---
 
 <style>
-h1.page__title, h1.page-title, h1#page-title {
+header h1#page-title,
+header h1.page__title,
+header h1.page-title {
   color: #494e52 !important;
   font-weight: bold !important;
 }
