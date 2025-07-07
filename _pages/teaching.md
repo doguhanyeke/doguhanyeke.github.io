@@ -78,3 +78,13 @@ This page highlights my teaching experience, including courses I have served as 
   Explores microprogramming, I/O devices and interfaces, memory hierarchy, fast arithmetic, and RISC architectures. Students learn the fundamentals of how computers are organized and how hardware components interact.
 </div>
 </div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var h1 = document.querySelector("header .page__title, header .page-title, header #page-title");
+  if (h1) {
+    h1.style.color = "#494e52";
+    h1.style.fontWeight = "bold";
+  }
+});
+</script>
