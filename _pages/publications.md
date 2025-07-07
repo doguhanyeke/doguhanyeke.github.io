@@ -49,7 +49,6 @@ classes: wide
 
 .publication-links a {
     margin-right: 1em;
-    font-weight: bold;
 }
 </style>
 
