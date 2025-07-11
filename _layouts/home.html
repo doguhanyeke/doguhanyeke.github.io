@@ -216,47 +216,45 @@ layout: archive
     </tbody>
   </table>
   <ul style="margin-bottom: 1.5em;">
-    <li style="display: flex; align-items: flex-start;">
-      <div style="flex: 1;">
-        <a id="first"></a>
-        <b>Automated Discovery of Semantic Attacks in Multi-Robot Navigation Systems</b>
+    <li style="margin-bottom: 2em;">
+      <div style="display: flex; align-items: flex-start;">
+        <div style="flex: 1;">
+          <a id="first"></a>
+          <b>Automated Discovery of Semantic Attacks in Multi-Robot Navigation Systems</b>
+        </div>
+        <a href="#" class="pub-abstract-toggle" style="color: #007bff; font-style: normal; margin-left: 1em; text-decoration: underline; font-weight: normal; white-space: nowrap;">abstract</a>
       </div>
-      <a href="#" class="pub-abstract-toggle" style="color: #007bff; font-style: normal; margin-left: 1em; text-decoration: underline; font-weight: normal; white-space: nowrap;">abstract</a>
-      <br/>
+      <div>
+        <b>Doguhan Yeke</b>, Kartik A. Pant, Muslum Ozgur Ozmen, Hyungsub Kim, James M. Goppert, Inseok Hwang, Antonio Bianchi, Z. Berkay Celik.<br>
+        <i>The 34th USENIX Security Symposium (<b>Security'25</b>), Seattle, WA, August 2025</i><br>
+        <a href="https://doguhanyeke.github.io/" target="_blank" style="margin-top: 0.3em; display: inline-block;">[paper]</a>
+        <div class="pub-abstract" style="display:none; margin-top: 0.5em;">
+          <b>Abstract:</b> Finding collision-free paths is crucial for autonomous multi- robots (AMRs) to complete assigned missions, ranging from search operations to military tasks. To achieve this, AMRs rely on collaborative collision avoidance algorithms. Unfortu- nately, the robustness of these algorithms against false data injection attacks (FDIAs) remains unexplored. In this paper, we introduce Raven, a tool to identify effective and stealthy se- mantic attacks (e.g., herding). Effective attacks minimize posi- tional displacement and the number of false data injections by using temporal logic and stochastic optimization techniques. Stealthy attacks remain within sensor noise ranges and main- tain spatiotemporal consistency. We evaluate Raven against two state-of-the-art collision avoidance algorithms, ORCA and GLAS. Our results show that a single false data injection impacts multi-robot systems by causing position deviation or even collisions. We evaluate Raven on three testbeds–a numer- ical simulator, a high-fidelity simulator, and Crazyflie drones. Our results reveal five design flaws in these algorithms and un- derscore the importance of developing robust defenses against FDIAs. Finally, we propose countermeasures to mitigate the attacks we have uncovered.
+        </div>
+      </div>
     </li>
-    <div style="margin-left: 0.5em;">
-      <b>Doguhan Yeke</b>, Kartik A. Pant, Muslum Ozgur Ozmen, Hyungsub Kim, James M. Goppert, Inseok Hwang, Antonio Bianchi, Z. Berkay Celik.<br>
-      <i>The 34th USENIX Security Symposium (<b>Security'25</b>), Seattle, WA, August 2025</i><br>
-      <a href="https://doguhanyeke.github.io/" target="_blank" style="margin-top: 0.3em; display: inline-block;">[paper]</a>
-      <div class="pub-abstract" style="display:none; margin-top: 0.5em;">
-        <b>Short: </b>
-        <b>Abstract:</b> Automated discovery of semantic attacks in multi-robot navigation systems. (Add your real abstract here.)
+    <li style="margin-bottom: 2em;">
+      <div style="display: flex; align-items: flex-start;">
+        <div style="flex: 1;">
+          <b>Wear's my Data? Understanding the Cross-Device Runtime Permission Model in Wearables</b>
+        </div>
+        <a href="#" class="pub-abstract-toggle" style="color: #007bff; font-style: normal; margin-left: 1em; text-decoration: underline; font-weight: normal; white-space: nowrap;">abstract</a>
       </div>
-    </div>
-    <li style="display: flex; align-items: flex-start;">
-      <div style="flex: 1;">
-        <b>Short: </b>
-        <b>Wear's my Data? Understanding the Cross-Device Runtime Permission Model in Wearables</b>
+      <div>
+        <b>Doguhan Yeke</b>, Muhammad Ibrahim, Guliz Seray Tuncay, Habiba Farrukh, Abdullah Imran, Antonio Bianchi, and Z. Berkay Celik<br>
+        <i>IEEE Security and Privacy (S&P), 2024</i><br>
+        <a href="https://research.google/pubs/wears-my-data-understanding-the-cross-device-runtime-permission-model-in-wearables/" target="_blank" style="margin-top: 0.3em; display: inline-block;">[paper]</a>
+        <div class="pub-abstract" style="display:none; margin-top: 0.5em;">
+          <b>Abstract:</b> Wearable devices are becoming increasingly important, helping us stay healthy and connected. There are a variety of app-based wearable platforms that can be used to manage these devices. The apps on wearable devices often work with a companion app on users' smartphones. The wearable device and the smartphone typically use two separate permission models that work synchronously to protect sensitive data. However, this design creates an opaque view of the management of permission-protected data, resulting in over-privileged data access without the user's explicit consent. In this paper, we performed the first systematic analysis of the interaction between the Android and Wear OS permission models. Our analysis is two-fold. First, through taint analysis, we showed that cross-device flows of permission-protected data happen in the wild, demonstrating that 28 apps (out of the 150 we studied) on Google Play have sensitive data flows between the wearable app and its companion app. We found that these data flows occur without the users' explicit consent, introducing the risk of violating user expectations. Second, we conducted an in-lab user study to assess users' understanding of permissions when subject to cross-device communication (n = 63). We found that 66.7% of the users are unaware of the possibility of cross-device sensitive data flows, which impairs their understanding of permissions in the context of wearable devices and puts their sensitive data at risk. We also showed that users are vulnerable to a new class of attacks that we call cross-device permission phishing attacks on wearable devices. Lastly, we performed a preliminary study on other watch platforms (i.e., Apple's watchOS, Fitbit, Garmin OS) and found that all these platforms suffer from similar privacy issues. As countermeasures for the potential privacy violations in cross-device apps, we suggest improvements in the system prompts and the permission model to enable users to make better-informed decisions, as well as on app markets to identify malicious cross-device data flows.
+        </div>
       </div>
-      <a href="#" class="pub-abstract-toggle" style="color: #007bff; font-style: normal; margin-left: 1em; text-decoration: underline; font-weight: normal; white-space: nowrap;">abstract</a>
-      <br/>
     </li>
-    <div style="margin-left: 0.5em;">
-      <b>Doguhan Yeke</b>, Muhammad Ibrahim, Guliz Seray Tuncay, Habiba Farrukh, Abdullah Imran, Antonio Bianchi, and Z. Berkay Celik<br>
-      <i>IEEE Security and Privacy (S&P), 2024</i><br>
-      <a href="https://research.google/pubs/wears-my-data-understanding-the-cross-device-runtime-permission-model-in-wearables/" target="_blank" style="margin-top: 0.3em; display: inline-block;">[paper]</a>
-      <div class="pub-abstract" style="display:none; margin-top: 0.5em;">
-        <b>Abstract:</b> Wear's my Data? Understanding the Cross-Device Runtime Permission Model in Wearables. (Add your real abstract here.)
-      </div>
-    </div>
   </ul>
   <script>
-document.querySelectorAll('.pub-abstract-toggle').forEach(function(btn, idx) {
+document.querySelectorAll('.pub-abstract-toggle').forEach(function(btn) {
   btn.addEventListener('click', function(e) {
     e.preventDefault();
-    // Find the abstract div that belongs to this button
-    var publicationContainer = btn.closest('li').nextElementSibling;
-    var abs = publicationContainer.querySelector('.pub-abstract');
+    var abs = btn.closest('li').querySelector('.pub-abstract');
     if (abs) {
       abs.style.display = abs.style.display === 'none' ? 'block' : 'none';
     }
