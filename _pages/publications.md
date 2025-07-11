@@ -18,7 +18,7 @@ h1.page__title, h1.page-title, h1#page-title {
 }
 
 .page__content {
-   font-size: 1em;
+    font-size: 1em;
 }
 
 .page__title.p-name {
