@@ -254,7 +254,9 @@ layout: archive
 document.querySelectorAll('.pub-abstract-toggle').forEach(function(btn, idx) {
   btn.addEventListener('click', function(e) {
     e.preventDefault();
-    var abs = btn.parentElement.parentElement.nextElementSibling.querySelector('.pub-abstract');
+    // Find the abstract div that belongs to this button
+    var publicationContainer = btn.closest('li').nextElementSibling;
+    var abs = publicationContainer.querySelector('.pub-abstract');
     if (abs) {
       abs.style.display = abs.style.display === 'none' ? 'block' : 'none';
     }
