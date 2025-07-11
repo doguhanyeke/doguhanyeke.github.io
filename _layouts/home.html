@@ -62,7 +62,7 @@ layout: archive
       <div class="timeline-item">
         <div class="timeline-date">
           <div class="timeline-dot" style="background-color: #8e44ad;"></div>
-          <span style="background-color: #8e44ad;">July 2025</span>
+          <span style="background-color: #8e44ad;">Jul 2025</span>
           <p class="timeline-title">
             Invited to CMU Robotics Security and Privacy <a href="https://www.cylab.cmu.edu/research/robotics-workshop/index.html" target="_blank">Workshop</a>.
           </p>
@@ -218,10 +218,14 @@ layout: archive
   <ul style="margin-bottom: 1.5em;">
     <li>
       <a id="first"></a>
-      <b>Automated Discovery of Semantic Attacks in Multi-Robot Navigation Systems</b><br/>
+      <b>Automated Discovery of Semantic Attacks in Multi-Robot Navigation Systems</b>
+      <a href="#" class="pub-abstract-toggle" style="color: #007bff; font-style: normal; margin-left: 0.5em; text-decoration: underline; font-weight: normal;">abstract</a><br/>
       <b>Doguhan Yeke</b>, Kartik A. Pant, Muslum Ozgur Ozmen, Hyungsub Kim, James M. Goppert, Inseok Hwang, Antonio Bianchi, Z. Berkay Celik.<br>
       <i>The 34th USENIX Security Symposium (<b>Security'25</b>), Seattle, WA, August 2025</i><br>
       <a href="https://doguhanyeke.github.io/" target="_blank" style="margin-top: 0.3em; display: inline-block;">[paper]</a>
+      <div class="pub-abstract" style="display:none; margin-top: 0.5em;">
+        <b>Abstract:</b> Automated discovery of semantic attacks in multi-robot navigation systems. (Add your real abstract here.)
+      </div>
     </li>
     <li>
       <a id="second"></a>
@@ -234,6 +238,17 @@ layout: archive
       <a href="https://view.communicate.purdue.edu/?qs=48af883d216de68b75e80ad06ec76eb51df4539359b22de69ec48fb6a4c7d1c4d51d9dc38497ebee77f334ed3b3c58bebe49a0497915ab9f1827b38a381c53b9aba630eee7c46ecb1dfc1faa0853db05" target="_blank" style="margin-left: 0.5em; display: inline-block;">[news]</a>
     </li>
   </ul>
+  <script>
+document.querySelectorAll('.pub-abstract-toggle').forEach(function(btn, idx) {
+  btn.addEventListener('click', function(e) {
+    e.preventDefault();
+    var abs = btn.parentElement.querySelector('.pub-abstract');
+    if (abs) {
+      abs.style.display = abs.style.display === 'none' ? 'block' : 'none';
+    }
+  });
+});
+</script>
   <table style="width:200%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>
       <tr>
