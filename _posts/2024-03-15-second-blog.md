@@ -1,7 +1,7 @@
 ---
 title: "Uncrewed Traffic Management (UTM)"
 layout: blog
-permalink: /blogs/utm/
+permalink: /blogs/llm-agents/
 author_profile: true
 classes: wide
 ---
@@ -64,17 +64,5 @@ classes: wide
 </style>
 
 <div class="blog-section">
-    <p>With the growing adoption of drones, new security and privacy challenges have emerged. In this post, I'll discuss some key insights for the UTM.</p>
-</div>
-
-<div class="blog-section">
-    <div class="blog-section-title">UTM</div>
-    <p>Topics:</p>
-    <ul>
-        <li><strong>FAA + NASA</strong> Explanation.</li>
-        <li><strong>UTM vs ATM:</strong> Explanation.</li>
-        <li><strong>Motivation of UTM:</strong> Explanation.</li>
-        <li><strong>Part 107:</strong> Explanation.</li>
-        <li><strong>Drone CA Systems:</strong> Explanation.</li>
-    </ul>
+    <p>With the growing adoption of LLMs, new security and privacy challenges have emerged. In this post, I'll discuss some key insights for the LLM agents.</p>
 </div>

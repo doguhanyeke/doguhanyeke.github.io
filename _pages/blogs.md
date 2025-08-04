@@ -45,42 +45,30 @@ classes: wide
 </style>
 
 <div class="blog-intro">
-I write about my research experiences, technical insights, and emerging trends in security, robotics, and artificial intelligence. These blog posts cover topics from Tree of Thoughts (ToT) in AI to Uncrewed Traffic Management (UTM) systems and multi-robot planning algorithms.
+I write about my research experiences, technical insights, and emerging trends in security, robotics, and LLMs.
 </div>
 
 <div class="blog-title">
-<a href="/blogs/tot/">Tree of Thoughts (ToT)</a>
+<a href="/blogs/adversarial-robotics/">Threat Model in Robotics</a>
 </div>
 
 <div class="blog-date">
-April 2, 2024
+August 4, 2025
 </div>
 
 <div class="blog-excerpt">
-In this blog post, I discuss some insights for newcomers to the Tree of Thoughts (ToT).
+In this blog post, I discuss some insights for defining the threat model in Robotics.
 </div>
 
 <div class="blog-title">
-<a href="/blogs/utm/">Uncrewed Traffic Management (UTM)</a>
+<a href="/blogs/llm-agents/">LLM Agents</a>
 </div>
 
 <div class="blog-date">
-March 15, 2024
+August 4, 2025
 </div>
 
 <div class="blog-excerpt">
-In this blog post, I describe the need for UTM in addition to ATM, Part 107 standard, Remote ID (RID), and the technology behind drone collision avoidance systems.
-</div>
-
-<div class="blog-title">
-<a href="/blogs/fingerprinting/">Fingerprinting Multi-robot Planning Algorithms</a>
-</div>
-
-<div class="blog-date">
-February 20, 2024
-</div>
-
-<div class="blog-excerpt">
-This post explores my experience fingerprinting Multi-robot Planning Algorithms, discussing the inputs, challenges and approaches.
+This post explores my experience discovering flaws in LLM Agents.
 </div>
 </div> 
