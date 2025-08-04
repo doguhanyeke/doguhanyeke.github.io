@@ -1,5 +1,5 @@
 ---
-title: "Tree of Thoughts (ToT)"
+title: "Adversarial Robotics"
 layout: blog
 permalink: /blogs/adversarial-robotics/
 author_profile: true
