@@ -8,6 +8,8 @@ main:
     url: "/teaching"
   - title: "Bugs Discovered"
     url: "/bugs"
+  - title: "Blog"
+    url: "/blogs"
   #- title: "Blogs"
   #  url: "/blogs"
   #- title: "About"
