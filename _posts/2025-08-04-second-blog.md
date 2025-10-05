@@ -64,5 +64,17 @@ classes: wide
 </style>
 
 <div class="blog-section">
-    <p>With the growing adoption of LLMs, new security and privacy challenges have emerged. In this post, I'll discuss some key insights for the LLM agents.</p>
+    <p>As LLM agents spread into products and embodied systems, security and privacy risks grow in both scope and impact. Below is a concise field note on threats, defenses, and representative references for agentic systems across chat and robotics.</p>
+
+    <div class="blog-section-title">Representative papers</div>
+    <ul>
+        <li>Conseca</li>
+        <li>ShieldAgent</li>
+        <li>AirGapAgent</li>
+        <li>RoboPair</li>
+        <li>RoboGuard</li>
+        <li>CEE</li>
+        <li>J-DAPT</li>
+        <li>TocTou</li>
+    </ul>
 </div>

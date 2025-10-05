@@ -49,7 +49,7 @@ I write about my research experiences, technical insights, and emerging trends i
 </div>
 
 <div class="blog-title">
-<a href="/blogs/adversarial-robotics/">Threat Model in Robotics</a>
+<a href="/blogs/adversarial-robotics/">A Systematic Threat Modeling in LLM-controlled Robotics</a>
 </div>
 
 <div class="blog-date">
