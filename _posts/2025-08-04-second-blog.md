@@ -272,10 +272,10 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
-                    <td>2024-12-20</td>
+                    <td>2024-03-28</td>
                     <td>JailbreakBench</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">TBD</a></td>
+                    <td><a href="https://arxiv.org/abs/2404.01318">2404.01318</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -345,7 +345,7 @@ classes: wide
                     <td>2024-07-02</td>
                     <td>GCG</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2407.02446">2407.02446</a></td>
+                    <td><a href="https://arxiv.org/pdf/2307.15043">2407.02446</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -373,7 +373,7 @@ classes: wide
                     <td>2024-05-27</td>
                     <td>Dolphins</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2405.17654">2405.17654</a></td>
+                    <td><a href="https://research.nvidia.com/labs/avg/publication/ma.cao.etal.arxiv2023/">2405.17654</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -429,7 +429,7 @@ classes: wide
                     <td>2024-09-09</td>
                     <td>Adversarial Attacks on Robotic Vision Language Action Models</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2409.05678">2409.05678</a></td>
+                    <td><a href="https://arxiv.org/abs/2506.03350">2409.05678</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -457,7 +457,7 @@ classes: wide
                     <td>2024-06-20</td>
                     <td>RoboCop: A Robust Zero-Day Cyber-Physical Attack Detection Framework for Robots</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2406.14789">2406.14789</a></td>
+                    <td><a href="https://ieeexplore.ieee.org/document/10802522">2406.14789</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -468,10 +468,10 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
-                    <td>2024-05-20</td>
+                    <td>2025-03-11</td>
                     <td>Google Semantic Safety</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">TBD</a></td>
+                    <td><a href="https://arxiv.org/abs/2503.08663">2503.08663</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
