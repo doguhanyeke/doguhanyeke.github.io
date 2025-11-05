@@ -76,6 +76,7 @@ classes: wide
         background-color: #2d2d2d;
         color: #ffffff;
         font-size: 0.95em;
+        table-layout: auto;
     }
     
     .papers-table th {
@@ -90,6 +91,10 @@ classes: wide
     .papers-table td {
         padding: 12px 15px;
         border-bottom: 1px solid #444;
+    }
+    
+    .papers-table td:last-child {
+        padding-right: 15px;
     }
     
     .papers-table tr:hover {
