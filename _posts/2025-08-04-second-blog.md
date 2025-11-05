@@ -168,24 +168,24 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
-                    <td>2025-08-01</td>
+                    <td>2025-07-31</td>
                     <td>CEE</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">arXiv:XXXX.XXXXX</a></td>
+                    <td><a href="#">https://arxiv.org/html/2504.13201v2</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
-                    <td>2025-08-01</td>
+                    <td>2025-09-27</td>
                     <td>J-DAPT</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">arXiv:XXXX.XXXXX</a></td>
+                    <td><a href="#">https://www.arxiv.org/abs/2509.23281</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
-                    <td>2025-08-01</td>
+                    <td>2025-08-23</td>
                     <td>TocTou</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">arXiv:XXXX.XXXXX</a></td>
+                    <td><a href="#">https://arxiv.org/abs/2508.17155</a></td>
                     <td class="code-cell">null</td>
                 </tr>
             </tbody>
