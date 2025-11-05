@@ -289,7 +289,7 @@ classes: wide
                     <td>2024-05-13</td>
                     <td>RobustNav</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2405.07890">2405.07890</a></td>
+                    <td><a href="https://arxiv.org/abs/2106.04531">2405.07890</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -352,14 +352,14 @@ classes: wide
                     <td>2024-04-17</td>
                     <td>TurkingBench</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2404.11234">2404.11234</a></td>
+                    <td><a href="https://arxiv.org/abs/2403.11905">2404.11234</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
                     <td>2024-03-14</td>
                     <td>Google's Approach to Protecting Privacy In the Age of AI</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2403.09876">2403.09876</a></td>
+                    <td><a href="https://research.google/pubs/googles-approach-to-protecting-privacy-in-the-age-of-ai/">2403.09876</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
