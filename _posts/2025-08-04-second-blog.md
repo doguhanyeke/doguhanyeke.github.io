@@ -126,22 +126,26 @@ classes: wide
     }
     
     .papers-table th:nth-child(1) {
-        width: 12%;
+        width: 5%;
     }
     
     .papers-table th:nth-child(2) {
-        width: 15%;
+        width: 12%;
     }
     
     .papers-table th:nth-child(3) {
-        width: 18%;
+        width: 15%;
     }
     
     .papers-table th:nth-child(4) {
-        width: 40%;
+        width: 18%;
     }
     
     .papers-table th:nth-child(5) {
+        width: 35%;
+    }
+    
+    .papers-table th:nth-child(6) {
         width: 10%;
     }
     
@@ -153,22 +157,27 @@ classes: wide
     }
     
     .papers-table td:nth-child(1) {
-        width: 12%;
+        width: 5%;
+        text-align: center;
     }
     
     .papers-table td:nth-child(2) {
-        width: 15%;
+        width: 12%;
     }
     
     .papers-table td:nth-child(3) {
-        width: 18%;
+        width: 15%;
     }
     
     .papers-table td:nth-child(4) {
-        width: 40%;
+        width: 18%;
     }
     
     .papers-table td:nth-child(5) {
+        width: 35%;
+    }
+    
+    .papers-table td:nth-child(6) {
         width: 10%;
     }
     
@@ -207,6 +216,7 @@ classes: wide
         <table class="papers-table">
             <thead>
                 <tr>
+                    <th>ID</th>
                     <th class="sortable" id="sort-date">Publish Date<span class="sort-arrow"></span></th>
                     <th>Title</th>
                     <th>Authors</th>
@@ -216,6 +226,7 @@ classes: wide
             </thead>
             <tbody>
                 <tr>
+                    <td>1</td>
                     <td>2025-01-28</td>
                     <td>Context is Key for Agent Security</td>
                     <td>Author Name et.al.</td>
@@ -223,6 +234,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>2</td>
                     <td>2025-03-26</td>
                     <td>ShieldAgent: Shielding Agents via Verifiable Safety Policy Reasoning</td>
                     <td>Author Name et.al.</td>
@@ -230,6 +242,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>3</td>
                     <td>2024-05-08</td>
                     <td>AirGapAgent: Protecting Privacy-Conscious Conversational Agents</td>
                     <td>Author Name et.al.</td>
@@ -237,6 +250,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>4</td>
                     <td>2024-10-17</td>
                     <td>RoboPair</td>
                     <td>Author Name et.al.</td>
@@ -244,6 +258,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>5</td>
                     <td>2025-03-10</td>
                     <td>RoboGuard</td>
                     <td>Author Name et.al.</td>
@@ -251,6 +266,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>6</td>
                     <td>2025-04-15</td>
                     <td>CEE</td>
                     <td>Author Name et.al.</td>
@@ -258,6 +274,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>7</td>
                     <td>2025-09-27</td>
                     <td>Preventing Robotic Jailbreaking via Multimodal Domain Adaptation</td>
                     <td>Author Name et.al.</td>
@@ -265,6 +282,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>8</td>
                     <td>2025-08-23</td>
                     <td>Mind the Gap: Time-of-Check to Time-of-Use Vulnerabilities in LLM-Enabled Agents</td>
                     <td>Author Name et.al.</td>
@@ -272,6 +290,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>9</td>
                     <td>2024-03-28</td>
                     <td>JailbreakBench</td>
                     <td>Author Name et.al.</td>
@@ -279,6 +298,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>10</td>
                     <td>2024-02-06</td>
                     <td>HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal</td>
                     <td>Author Name et.al.</td>
@@ -286,6 +306,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>11</td>
                     <td>2024-05-13</td>
                     <td>RobustNav</td>
                     <td>Author Name et.al.</td>
@@ -293,6 +314,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>12</td>
                     <td>2024-11-04</td>
                     <td>AgentHarm</td>
                     <td>Author Name et.al.</td>
@@ -300,6 +322,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>13</td>
                     <td>2024-10-09</td>
                     <td>ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents</td>
                     <td>Author Name et.al.</td>
@@ -307,6 +330,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>14</td>
                     <td>2024-09-09</td>
                     <td>AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions</td>
                     <td>Author Name et.al.</td>
@@ -314,6 +338,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>15</td>
                     <td>2024-08-19</td>
                     <td>ARE Meta</td>
                     <td>Author Name et.al.</td>
@@ -321,6 +346,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>16</td>
                     <td>2025-08-23</td>
                     <td>Mind the Gap: Time-of-Check to Time-of-Use Vulnerabilities in LLM-Enabled Agents</td>
                     <td>Author Name et.al.</td>
@@ -328,6 +354,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>17</td>
                     <td>2024-06-08</td>
                     <td>Adversarial Attacks on Robotic Vision Language Action Models</td>
                     <td>Author Name et.al.</td>
@@ -335,6 +362,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>18</td>
                     <td>2024-07-18</td>
                     <td>TAP</td>
                     <td>Author Name et.al.</td>
@@ -342,6 +370,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>19</td>
                     <td>2024-07-02</td>
                     <td>GCG</td>
                     <td>Author Name et.al.</td>
@@ -349,6 +378,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>20</td>
                     <td>2024-04-17</td>
                     <td>TurkingBench</td>
                     <td>Author Name et.al.</td>
@@ -356,6 +386,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>21</td>
                     <td>2024-03-14</td>
                     <td>Google's Approach to Protecting Privacy In the Age of AI</td>
                     <td>Author Name et.al.</td>
@@ -363,6 +394,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>22</td>
                     <td>2024-09-27</td>
                     <td>Securing MCP-based Agent Workflows</td>
                     <td>Author Name et.al.</td>
@@ -370,6 +402,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>23</td>
                     <td>2024-05-27</td>
                     <td>Dolphins</td>
                     <td>Author Name et.al.</td>
@@ -377,6 +410,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>24</td>
                     <td>2024-08-16</td>
                     <td>Sound Image Perturb</td>
                     <td>Author Name et.al.</td>
@@ -384,6 +418,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>25</td>
                     <td>2024-10-04</td>
                     <td>Revisiting the Adversarial Robustness of Vision
 Language Models: a Multimodal Perspective</td>
@@ -392,6 +427,7 @@ Language Models: a Multimodal Perspective</td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>26</td>
                     <td>2024-07-02</td>
                     <td>BrowserArena: Evaluating LLM Agents on Real-World Web Navigation Tasks</td>
                     <td>Author Name et.al.</td>
@@ -399,6 +435,7 @@ Language Models: a Multimodal Perspective</td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>27</td>
                     <td>2024-03-07</td>
                     <td>Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference</td>
                     <td>Author Name et.al.</td>
@@ -406,6 +443,7 @@ Language Models: a Multimodal Perspective</td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>28</td>
                     <td>2025-09-30</td>
                     <td>CHAI: Command Hijacking against embodied AI</td>
                     <td>Author Name et.al.</td>
@@ -413,6 +451,7 @@ Language Models: a Multimodal Perspective</td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>29</td>
                     <td>2025-09-29</td>
                     <td>SecInfer: Preventing Prompt Injection via Inference-time Scaling</td>
                     <td>Author Name et.al.</td>
@@ -420,6 +459,7 @@ Language Models: a Multimodal Perspective</td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>30</td>
                     <td>2025-10-01</td>
                     <td>WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents</td>
                     <td>Author Name et.al.</td>
@@ -427,6 +467,7 @@ Language Models: a Multimodal Perspective</td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>31</td>
                     <td>2024-09-09</td>
                     <td>Adversarial Attacks on Robotic Vision Language Action Models</td>
                     <td>Author Name et.al.</td>
@@ -434,6 +475,7 @@ Language Models: a Multimodal Perspective</td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>32</td>
                     <td>2024-08-30</td>
                     <td>OmniVLA: An Omni-Modal Vision-Language-Action Model for Robot Navigation</td>
                     <td>Author Name et.al.</td>
@@ -441,6 +483,7 @@ Language Models: a Multimodal Perspective</td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>33</td>
                     <td>2024-07-11</td>
                     <td>NaviLA</td>
                     <td>Author Name et.al.</td>
@@ -448,6 +491,7 @@ Language Models: a Multimodal Perspective</td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>34</td>
                     <td>2024-12-04</td>
                     <td>Emerging Risks from Embodied AI Require Urgent Policy Action</td>
                     <td>Author Name et.al.</td>
@@ -455,6 +499,7 @@ Language Models: a Multimodal Perspective</td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>35</td>
                     <td>2024-06-20</td>
                     <td>RoboCop: A Robust Zero-Day Cyber-Physical Attack Detection Framework for Robots</td>
                     <td>Author Name et.al.</td>
@@ -462,6 +507,7 @@ Language Models: a Multimodal Perspective</td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>36</td>
                     <td>2024-11-10</td>
                     <td>RoboGuardZ: A Scalable Zero-Shot Framework for Detecting Zero-Day Malware in Robots</td>
                     <td>Author Name et.al.</td>
@@ -469,6 +515,7 @@ Language Models: a Multimodal Perspective</td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>37</td>
                     <td>2025-03-11</td>
                     <td>Google Semantic Safety</td>
                     <td>Author Name et.al.</td>
@@ -476,6 +523,7 @@ Language Models: a Multimodal Perspective</td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>38</td>
                     <td>2024-09-05</td>
                     <td>Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications</td>
                     <td>Author Name et.al.</td>
@@ -483,6 +531,7 @@ Language Models: a Multimodal Perspective</td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>39</td>
                     <td>2025-03-18</td>
                     <td>GROOT1</td>
                     <td>Author Name et.al.</td>
@@ -490,6 +539,7 @@ Language Models: a Multimodal Perspective</td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>40</td>
                     <td>2024-08-06</td>
                     <td>Simulation Control Visual SysID</td>
                     <td>Author Name et.al.</td>
@@ -497,6 +547,7 @@ Language Models: a Multimodal Perspective</td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
+                    <td>41</td>
                     <td>2025-09-25</td>
                     <td>Can AI Perceive Physical Danger and Intervene?</td>
                     <td>Author Name et.al.</td>
@@ -534,8 +585,8 @@ Language Models: a Multimodal Perspective</td>
             const rows = Array.from(tbody.querySelectorAll('tr'));
             
             rows.sort((a, b) => {
-                const dateA = a.cells[0].textContent.trim();
-                const dateB = b.cells[0].textContent.trim();
+                const dateA = a.cells[1].textContent.trim();
+                const dateB = b.cells[1].textContent.trim();
                 
                 if (sortDirection === 'asc') {
                     return dateA.localeCompare(dateB);
@@ -547,6 +598,11 @@ Language Models: a Multimodal Perspective</td>
             // Remove all rows and re-add them in sorted order
             rows.forEach(row => tbody.removeChild(row));
             rows.forEach(row => tbody.appendChild(row));
+            
+            // Renumber IDs after sorting
+            rows.forEach((row, index) => {
+                row.cells[0].textContent = index + 1;
+            });
         }
     })();
     </script>
