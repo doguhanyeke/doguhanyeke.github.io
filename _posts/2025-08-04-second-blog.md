@@ -67,14 +67,123 @@ classes: wide
     <p>As LLM agents spread into products and embodied systems, security and privacy risks grow in both scope and impact. Below is a concise field note on threats, defenses, and representative references for agentic systems across chat and robotics.</p>
 
     <div class="blog-section-title">Papers published in this domain</div>
-    <ul>
-        <li>Conseca</li>
-        <li>ShieldAgent</li>
-        <li>AirGapAgent</li>
-        <li>RoboPair</li>
-        <li>RoboGuard</li>
-        <li>CEE</li>
-        <li>J-DAPT</li>
-        <li>TocTou</li>
-    </ul>
+    
+    <style>
+    .papers-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5em 0;
+        background-color: #2d2d2d;
+        color: #ffffff;
+        font-size: 0.95em;
+    }
+    
+    .papers-table th {
+        background-color: #1a1a1a;
+        color: #ffffff;
+        padding: 12px 15px;
+        text-align: left;
+        font-weight: bold;
+        border-bottom: 2px solid #444;
+    }
+    
+    .papers-table td {
+        padding: 12px 15px;
+        border-bottom: 1px solid #444;
+    }
+    
+    .papers-table tr:hover {
+        background-color: #3a3a3a;
+    }
+    
+    .papers-table a {
+        color: #4a9eff;
+        text-decoration: underline;
+    }
+    
+    .papers-table a:hover {
+        color: #6bb3ff;
+    }
+    
+    .papers-table .code-cell {
+        color: #888;
+    }
+    
+    .papers-table-wrapper {
+        overflow-x: auto;
+        margin: 1.5em 0;
+    }
+    </style>
+    
+    <div class="papers-table-wrapper">
+        <table class="papers-table">
+            <thead>
+                <tr>
+                    <th>Publish Date</th>
+                    <th>Title</th>
+                    <th>Authors</th>
+                    <th>PDF</th>
+                    <th>Code</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>2025-08-01</td>
+                    <td>Conseca</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="#">arXiv:XXXX.XXXXX</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2025-08-01</td>
+                    <td>ShieldAgent</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="#">arXiv:XXXX.XXXXX</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2025-08-01</td>
+                    <td>AirGapAgent</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="#">arXiv:XXXX.XXXXX</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2025-08-01</td>
+                    <td>RoboPair</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="#">arXiv:XXXX.XXXXX</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2025-08-01</td>
+                    <td>RoboGuard</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="#">arXiv:XXXX.XXXXX</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2025-08-01</td>
+                    <td>CEE</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="#">arXiv:XXXX.XXXXX</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2025-08-01</td>
+                    <td>J-DAPT</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="#">arXiv:XXXX.XXXXX</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2025-08-01</td>
+                    <td>TocTou</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="#">arXiv:XXXX.XXXXX</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 </div>
