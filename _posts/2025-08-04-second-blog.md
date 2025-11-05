@@ -71,12 +71,13 @@ classes: wide
     <style>
     .papers-table {
         width: 100%;
+        max-width: 100%;
         border-collapse: collapse;
         margin: 1.5em 0;
         background-color: #2d2d2d;
         color: #ffffff;
         font-size: 0.95em;
-        table-layout: auto;
+        table-layout: fixed;
     }
     
     .papers-table th {
@@ -88,22 +89,101 @@ classes: wide
         border-bottom: 2px solid #444;
     }
     
+    .papers-table th.sortable {
+        cursor: pointer;
+        user-select: none;
+        position: relative;
+    }
+    
+    .papers-table th.sortable:hover {
+        background-color: #252525;
+    }
+    
+    .papers-table th.sortable .sort-arrow {
+        display: inline-block;
+        margin-left: 5px;
+        font-size: 0.8em;
+        color: #888;
+        transition: color 0.2s;
+    }
+    
+    .papers-table th.sortable:hover .sort-arrow {
+        color: #ffffff;
+    }
+    
+    .papers-table th.sortable.sorted-asc .sort-arrow::after {
+        content: "▲";
+        color: #4a9eff;
+    }
+    
+    .papers-table th.sortable.sorted-desc .sort-arrow::after {
+        content: "▼";
+        color: #4a9eff;
+    }
+    
+    .papers-table th.sortable .sort-arrow::after {
+        content: "⇅";
+    }
+    
+    .papers-table th:nth-child(1) {
+        width: 12%;
+    }
+    
+    .papers-table th:nth-child(2) {
+        width: 15%;
+    }
+    
+    .papers-table th:nth-child(3) {
+        width: 18%;
+    }
+    
+    .papers-table th:nth-child(4) {
+        width: 40%;
+    }
+    
+    .papers-table th:nth-child(5) {
+        width: 10%;
+    }
+    
     .papers-table td {
         padding: 12px 15px;
         border-bottom: 1px solid #444;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+    }
+    
+    .papers-table td:nth-child(1) {
+        width: 12%;
+    }
+    
+    .papers-table td:nth-child(2) {
+        width: 15%;
+    }
+    
+    .papers-table td:nth-child(3) {
+        width: 18%;
+    }
+    
+    .papers-table td:nth-child(4) {
+        width: 40%;
+    }
+    
+    .papers-table td:nth-child(5) {
+        width: 10%;
     }
     
     .papers-table td:last-child {
         padding-right: 15px;
     }
     
-    .papers-table tr:hover {
-        background-color: #3a3a3a;
-    }
-    
     .papers-table a {
         color: #4a9eff;
         text-decoration: underline;
+        word-break: break-all;
+    }
+    
+    .papers-table tr:hover {
+        background-color: #3a3a3a;
     }
     
     .papers-table a:hover {
@@ -115,8 +195,11 @@ classes: wide
     }
     
     .papers-table-wrapper {
+        width: 100%;
+        max-width: 100%;
         overflow-x: auto;
         margin: 1.5em 0;
+        box-sizing: border-box;
     }
     </style>
     
@@ -124,7 +207,7 @@ classes: wide
         <table class="papers-table">
             <thead>
                 <tr>
-                    <th>Publish Date</th>
+                    <th class="sortable" id="sort-date">Publish Date<span class="sort-arrow"></span></th>
                     <th>Title</th>
                     <th>Authors</th>
                     <th>PDF</th>
@@ -191,4 +274,48 @@ classes: wide
             </tbody>
         </table>
     </div>
+    
+    <script>
+    (function() {
+        const sortHeader = document.getElementById('sort-date');
+        const table = document.querySelector('.papers-table');
+        const tbody = table.querySelector('tbody');
+        let sortDirection = 'desc'; // Start with descending (newest first)
+        
+        // Set initial sort to descending
+        sortHeader.classList.add('sorted-desc');
+        sortTable();
+        
+        sortHeader.addEventListener('click', function() {
+            // Toggle sort direction
+            sortDirection = sortDirection === 'asc' ? 'desc' : 'asc';
+            
+            // Update header classes
+            sortHeader.classList.remove('sorted-asc', 'sorted-desc');
+            sortHeader.classList.add(sortDirection === 'asc' ? 'sorted-asc' : 'sorted-desc');
+            
+            // Sort the table
+            sortTable();
+        });
+        
+        function sortTable() {
+            const rows = Array.from(tbody.querySelectorAll('tr'));
+            
+            rows.sort((a, b) => {
+                const dateA = a.cells[0].textContent.trim();
+                const dateB = b.cells[0].textContent.trim();
+                
+                if (sortDirection === 'asc') {
+                    return dateA.localeCompare(dateB);
+                } else {
+                    return dateB.localeCompare(dateA);
+                }
+            });
+            
+            // Remove all rows and re-add them in sorted order
+            rows.forEach(row => tbody.removeChild(row));
+            rows.forEach(row => tbody.appendChild(row));
+        }
+    })();
+    </script>
 </div>
