@@ -296,7 +296,7 @@ classes: wide
                     <td>2024-11-04</td>
                     <td>AgentHarm</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">TBD</a></td>
+                    <td><a href="https://arxiv.org/abs/2410.09024">2410.09024</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -338,14 +338,14 @@ classes: wide
                     <td>2024-07-18</td>
                     <td>TAP</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2407.13579">2407.13579</a></td>
+                    <td><a href="#">TBD</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
                     <td>2024-07-02</td>
                     <td>GCG</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/pdf/2307.15043">2407.02446</a></td>
+                    <td><a href="https://arxiv.org/abs/2307.15043">2307.15043</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -359,35 +359,35 @@ classes: wide
                     <td>2024-03-14</td>
                     <td>Google's Approach to Protecting Privacy In the Age of AI</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://research.google/pubs/googles-approach-to-protecting-privacy-in-the-age-of-ai/">2403.09876</a></td>
+                    <td><a href="https://research.google/pubs/googles-approach-to-protecting-privacy-in-the-age-of-ai/">Link</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
                     <td>2024-09-27</td>
                     <td>Securing MCP-based Agent Workflows</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2409.18456">2409.18456</a></td>
+                    <td><a href="#">TBD</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
                     <td>2024-05-27</td>
                     <td>Dolphins</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://research.nvidia.com/labs/avg/publication/ma.cao.etal.arxiv2023/">2405.17654</a></td>
+                    <td><a href="https://research.nvidia.com/labs/avg/publication/ma.cao.etal.arxiv2023/">Link</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
                     <td>2024-08-16</td>
-                    <td>Eugene Sound Image Perturb</td>
+                    <td>Sound Image Perturb</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2408.08765">2408.08765</a></td>
+                    <td><a href="#">TBD</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
                     <td>2024-10-04</td>
                     <td>Multimodal Adv Training</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2410.03210">2410.03210</a></td>
+                    <td><a href="#">TBD</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -436,21 +436,21 @@ classes: wide
                     <td>2024-08-30</td>
                     <td>OmniVLA: An Omni-Modal Vision-Language-Action Model for Robot Navigation</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2408.16987">2408.16987</a></td>
+                    <td><a href="#">TBD</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
                     <td>2024-07-11</td>
                     <td>NaviLA</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2407.08765">2407.08765</a></td>
+                    <td><a href="#">TBD</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
                     <td>2024-12-04</td>
                     <td>Emerging Risks from Embodied AI Require Urgent Policy Action</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2509.00117">2412.03456</a></td>
+                    <td><a href="https://arxiv.org/abs/2509.00117">2509.00117</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -464,7 +464,7 @@ classes: wide
                     <td>2024-11-10</td>
                     <td>RoboGuardZ: A Scalable Zero-Shot Framework for Detecting Zero-Day Malware in Robots</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">TBD</a></td>
+                    <td><a href="https://beerkay.github.io/papers/Berkay2024RoboGuardzIROS.pdf">Link</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -478,7 +478,7 @@ classes: wide
                     <td>2024-09-05</td>
                     <td>Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2409.03456">2409.03456</a></td>
+                    <td><a href="#">TBD</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
