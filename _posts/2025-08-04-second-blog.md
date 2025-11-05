@@ -133,38 +133,38 @@ classes: wide
             </thead>
             <tbody>
                 <tr>
-                    <td>2025-08-01</td>
+                    <td>2025-04-17</td>
                     <td>Conseca</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">arXiv:XXXX.XXXXX</a></td>
+                    <td><a href="#">https://arxiv.org/abs/2501.17070</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
-                    <td>2025-08-01</td>
+                    <td>2025-03-26</td>
                     <td>ShieldAgent</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">arXiv:XXXX.XXXXX</a></td>
+                    <td><a href="#">https://arxiv.org/abs/2503.22738</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
-                    <td>2025-08-01</td>
+                    <td>2024-09-18</td>
                     <td>AirGapAgent</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">arXiv:XXXX.XXXXX</a></td>
+                    <td><a href="#">https://arxiv.org/abs/2405.05175</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
-                    <td>2025-08-01</td>
+                    <td>2025-11-09</td>
                     <td>RoboPair</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">arXiv:XXXX.XXXXX</a></td>
+                    <td><a href="#">https://arxiv.org/pdf/2410.13691</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
-                    <td>2025-08-01</td>
+                    <td>2025-03-10</td>
                     <td>RoboGuard</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">arXiv:XXXX.XXXXX</a></td>
+                    <td><a href="#">https://arxiv.org/abs/2503.07885</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
