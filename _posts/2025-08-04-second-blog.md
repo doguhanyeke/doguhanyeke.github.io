@@ -310,7 +310,7 @@ classes: wide
                     <td>2024-09-09</td>
                     <td>AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2409.05678">2409.05678</a></td>
+                    <td><a href="https://arxiv.org/abs/2506.09038">2409.05678</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -366,7 +366,7 @@ classes: wide
                     <td>2024-09-27</td>
                     <td>Securing MCP-based Agent Workflows</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">TBD</a></td>
+                    <td><a href="https://dl.acm.org/doi/10.1145/3766882.3767177">Link</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -385,9 +385,10 @@ classes: wide
                 </tr>
                 <tr>
                     <td>2024-10-04</td>
-                    <td>Multimodal Adv Training</td>
+                    <td>Revisiting the Adversarial Robustness of Vision
+Language Models: a Multimodal Perspective</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">TBD</a></td>
+                    <td><a href="https://arxiv.org/abs/2404.19287">Link</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -478,7 +479,7 @@ classes: wide
                     <td>2024-09-05</td>
                     <td>Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">TBD</a></td>
+                    <td><a href="https://arxiv.org/abs/2510.07077">Link</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
