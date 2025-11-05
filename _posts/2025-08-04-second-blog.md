@@ -317,7 +317,7 @@ classes: wide
                     <td>2024-08-19</td>
                     <td>ARE Meta</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2408.09876">2408.09876</a></td>
+                    <td><a href="https://arxiv.org/abs/2509.17158">2408.09876</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -338,7 +338,7 @@ classes: wide
                     <td>2024-07-18</td>
                     <td>TAP</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">TBD</a></td>
+                    <td><a href="https://arxiv.org/abs/2312.02119">Link</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -380,7 +380,7 @@ classes: wide
                     <td>2024-08-16</td>
                     <td>Sound Image Perturb</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">TBD</a></td>
+                    <td><a href="https://arxiv.org/abs/2307.10490">Link</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -437,14 +437,14 @@ Language Models: a Multimodal Perspective</td>
                     <td>2024-08-30</td>
                     <td>OmniVLA: An Omni-Modal Vision-Language-Action Model for Robot Navigation</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">TBD</a></td>
+                    <td><a href="https://arxiv.org/abs/2509.19480">Link</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
                     <td>2024-07-11</td>
                     <td>NaviLA</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">TBD</a></td>
+                    <td><a href="https://arxiv.org/abs/2412.04453">Link</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -493,7 +493,7 @@ Language Models: a Multimodal Perspective</td>
                     <td>2024-08-06</td>
                     <td>Simulation Control Visual SysID</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">TBD</a></td>
+                    <td><a href="https://arxiv.org/abs/2405.05941">Link</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
