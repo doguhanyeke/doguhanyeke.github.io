@@ -237,7 +237,7 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
-                    <td>2025-11-09</td>
+                    <td>2024-11-09</td>
                     <td>RoboPair</td>
                     <td>Author Name et.al.</td>
                     <td><a href="#">https://arxiv.org/pdf/2410.13691</a></td>
