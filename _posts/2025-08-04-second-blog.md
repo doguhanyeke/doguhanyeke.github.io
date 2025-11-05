@@ -64,7 +64,7 @@ classes: wide
 </style>
 
 <div class="blog-section">
-    <p>As LLM agents spread into products and embodied systems, security and privacy risks grow in both scope and impact. Below is a concise summary on threats, defenses, and representative references for agentic systems across chat and robotics.</p>
+    <p>As LLM agents spread into products and embodied systems, security and privacy risks grow in both scope and impact. Below is a summary on attacks and defenses as representative references for agentic systems across chat and robotics.</p>
 
     <div class="blog-section-title">Papers published in this domain</div>
     
