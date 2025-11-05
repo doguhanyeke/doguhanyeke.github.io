@@ -321,10 +321,10 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
-                    <td>2024-11-13</td>
+                    <td>2025-08-23</td>
                     <td>Mind the Gap: Time-of-Check to Time-of-Use Vulnerabilities in LLM-Enabled Agents</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2411.08765">2411.08765</a></td>
+                    <td><a href="https://arxiv.org/abs/2508.17155">2508.17155</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -412,17 +412,17 @@ classes: wide
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
-                    <td>2024-11-24</td>
+                    <td>2025-09-29</td>
                     <td>SecInfer: Preventing Prompt Injection via Inference-time Scaling</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2411.15987">2411.15987</a></td>
+                    <td><a href="https://arxiv.org/abs/2509.24967">2509.24967</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
-                    <td>2024-10-18</td>
+                    <td>2025-10-01</td>
                     <td>WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2410.14236">2410.14236</a></td>
+                    <td><a href="https://arxiv.org/abs/2510.01354">2510.01354</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -450,7 +450,7 @@ classes: wide
                     <td>2024-12-04</td>
                     <td>Emerging Risks from Embodied AI Require Urgent Policy Action</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2412.03456">2412.03456</a></td>
+                    <td><a href="https://arxiv.org/abs/2509.00117">2412.03456</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
@@ -464,7 +464,7 @@ classes: wide
                     <td>2024-11-10</td>
                     <td>RoboGuardZ: A Scalable Zero-Shot Framework for Detecting Zero-Day Malware in Robots</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="https://arxiv.org/abs/2411.06543">2411.06543</a></td>
+                    <td><a href="#">TBD</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
