@@ -216,59 +216,290 @@ classes: wide
             </thead>
             <tbody>
                 <tr>
-                    <td>2025-04-17</td>
-                    <td>Conseca</td>
+                    <td>2025-01-28</td>
+                    <td>Context is Key for Agent Security</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">https://arxiv.org/abs/2501.17070</a></td>
+                    <td><a href="https://arxiv.org/abs/2501.17070">2501.17070</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
                     <td>2025-03-26</td>
-                    <td>ShieldAgent</td>
+                    <td>ShieldAgent: Shielding Agents via Verifiable Safety Policy Reasoning</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">https://arxiv.org/abs/2503.22738</a></td>
+                    <td><a href="https://arxiv.org/abs/2503.22738">2503.22738</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
-                    <td>2024-09-18</td>
-                    <td>AirGapAgent</td>
+                    <td>2024-05-08</td>
+                    <td>AirGapAgent: Protecting Privacy-Conscious Conversational Agents</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">https://arxiv.org/abs/2405.05175</a></td>
+                    <td><a href="https://arxiv.org/abs/2405.05175">2405.05175</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
-                    <td>2024-11-09</td>
+                    <td>2024-10-17</td>
                     <td>RoboPair</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">https://arxiv.org/pdf/2410.13691</a></td>
+                    <td><a href="https://arxiv.org/abs/2410.13691">2410.13691</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
                     <td>2025-03-10</td>
                     <td>RoboGuard</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">https://arxiv.org/abs/2503.07885</a></td>
+                    <td><a href="https://arxiv.org/abs/2503.07885">2503.07885</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
-                    <td>2025-07-31</td>
+                    <td>2025-04-15</td>
                     <td>CEE</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">https://arxiv.org/html/2504.13201v2</a></td>
+                    <td><a href="https://arxiv.org/abs/2504.13201">2504.13201</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
                     <td>2025-09-27</td>
-                    <td>J-DAPT</td>
+                    <td>Preventing Robotic Jailbreaking via Multimodal Domain Adaptation</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">https://www.arxiv.org/abs/2509.23281</a></td>
+                    <td><a href="https://arxiv.org/abs/2509.23281">2509.23281</a></td>
                     <td class="code-cell">null</td>
                 </tr>
                 <tr>
                     <td>2025-08-23</td>
-                    <td>TocTou</td>
+                    <td>Mind the Gap: Time-of-Check to Time-of-Use Vulnerabilities in LLM-Enabled Agents</td>
                     <td>Author Name et.al.</td>
-                    <td><a href="#">https://arxiv.org/abs/2508.17155</a></td>
+                    <td><a href="https://arxiv.org/abs/2508.17155">2508.17155</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-12-20</td>
+                    <td>JailbreakBench</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="#">TBD</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-02-06</td>
+                    <td>HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2402.04249">2402.04249</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-05-13</td>
+                    <td>RobustNav</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2405.07890">2405.07890</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-11-04</td>
+                    <td>AgentHarm</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="#">TBD</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-10-09</td>
+                    <td>ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2410.06703">2410.06703</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-09-09</td>
+                    <td>AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2409.05678">2409.05678</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-08-19</td>
+                    <td>ARE Meta</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2408.09876">2408.09876</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-11-13</td>
+                    <td>Mind the Gap: Time-of-Check to Time-of-Use Vulnerabilities in LLM-Enabled Agents</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2411.08765">2411.08765</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-06-08</td>
+                    <td>Adversarial Attacks on Robotic Vision Language Action Models</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2406.05432">2406.05432</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-07-18</td>
+                    <td>TAP</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2407.13579">2407.13579</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-07-02</td>
+                    <td>GCG</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2407.02446">2407.02446</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-04-17</td>
+                    <td>TurkingBench</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2404.11234">2404.11234</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-03-14</td>
+                    <td>Google's Approach to Protecting Privacy In the Age of AI</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2403.09876">2403.09876</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-09-27</td>
+                    <td>Securing MCP-based Agent Workflows</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2409.18456">2409.18456</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-05-27</td>
+                    <td>Dolphins</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2405.17654">2405.17654</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-08-16</td>
+                    <td>Eugene Sound Image Perturb</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2408.08765">2408.08765</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-10-04</td>
+                    <td>Multimodal Adv Training</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2410.03210">2410.03210</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-07-02</td>
+                    <td>BrowserArena: Evaluating LLM Agents on Real-World Web Navigation Tasks</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2407.02421">2407.02421</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-03-07</td>
+                    <td>Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2403.04132">2403.04132</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2025-09-30</td>
+                    <td>CHAI: Command Hijacking against embodied AI</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2510.00181">2510.00181</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-11-24</td>
+                    <td>SecInfer: Preventing Prompt Injection via Inference-time Scaling</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2411.15987">2411.15987</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-10-18</td>
+                    <td>WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2410.14236">2410.14236</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-09-09</td>
+                    <td>Adversarial Attacks on Robotic Vision Language Action Models</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2409.05678">2409.05678</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-08-30</td>
+                    <td>OmniVLA: An Omni-Modal Vision-Language-Action Model for Robot Navigation</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2408.16987">2408.16987</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-07-11</td>
+                    <td>NaviLA</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2407.08765">2407.08765</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-12-04</td>
+                    <td>Emerging Risks from Embodied AI Require Urgent Policy Action</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2412.03456">2412.03456</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-06-20</td>
+                    <td>RoboCop: A Robust Zero-Day Cyber-Physical Attack Detection Framework for Robots</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2406.14789">2406.14789</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-11-10</td>
+                    <td>RoboGuardZ: A Scalable Zero-Shot Framework for Detecting Zero-Day Malware in Robots</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2411.06543">2411.06543</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-05-20</td>
+                    <td>Google Semantic Safety</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="#">TBD</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-09-05</td>
+                    <td>Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2409.03456">2409.03456</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2025-03-18</td>
+                    <td>GROOT1</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2503.14734">2503.14734</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2024-08-06</td>
+                    <td>Simulation Control Visual SysID</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="#">TBD</a></td>
+                    <td class="code-cell">null</td>
+                </tr>
+                <tr>
+                    <td>2025-09-25</td>
+                    <td>Can AI Perceive Physical Danger and Intervene?</td>
+                    <td>Author Name et.al.</td>
+                    <td><a href="https://arxiv.org/abs/2509.21651">2509.21651</a></td>
                     <td class="code-cell">null</td>
                 </tr>
             </tbody>
