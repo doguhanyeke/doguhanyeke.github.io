@@ -90,11 +90,11 @@ Automated Discovery of Semantic Attacks in Multi-Robot Navigation Systems
 </div>
 
 <div class="publication-conference">
-USENIX Security, 2025 (to appear)
+USENIX Security, 2025
 </div>
 
 <div class="publication-links">
-<a href="https://doguhanyeke.github.io/">[Paper]</a>
+<a href="https://www.usenix.org/system/files/usenixsecurity25-yeke.pdf">[Paper]</a>
 </div>
 
 <div class="publication-year">2024</div>
