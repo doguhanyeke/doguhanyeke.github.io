@@ -74,7 +74,7 @@ I led a collaborative project with Sandia National Labs to deploy and test cyber
 
 <div class="testbed-item">
 <div class="testbed-title">
-Chemical Plant and Water Treatment Plant [<a href="https://action.ucsb.edu/">NSF ACTION GATE</a>]
+Chemical Plant and Water Treatment Plant [<a href="https://action.ucsb.edu/">NSF AI ACTION GATE</a>]
 </div>
 </div>
 <div style="display: flex; justify-content: space-between; margin: 20px 0;">
