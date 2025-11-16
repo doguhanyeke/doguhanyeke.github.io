@@ -78,13 +78,13 @@ Chemical Plant and Water Treatment Plant [<a href="https://action.ucsb.edu/">NSF
 </div>
 </div>
 <div style="display: flex; justify-content: space-between; margin: 20px 0;">
-  <div style="width: 48%;">
+  <div style="width: 47%;">
       <video width="100%" height="300" controls preload="auto" poster="/assets/images/image1.png">
           <source src="/assets/images/video1.mp4" type="video/mp4">
       </video>
       <p align="center" style="color: #494e52;">Attack Agent</p>
   </div>
-  <div style="width: 48%;">
+  <div style="width: 49%;">
       <video width="100%" height="300" controls preload="auto" poster="/assets/images/image2.png">
           <source src="/assets/images/video2.mp4" type="video/mp4">
       </video>
