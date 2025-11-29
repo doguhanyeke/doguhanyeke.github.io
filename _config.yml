@@ -119,7 +119,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/doguyeke"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/doguhanyeke/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
