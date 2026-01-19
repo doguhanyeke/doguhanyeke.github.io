@@ -70,6 +70,8 @@ ICS testbed on minimega [<a href="https://www.sandia.gov/">Sandia</a> partnershi
 I led a collaborative project with Sandia National Labs to deploy and test cyber emulation tools on SOL4CE (Scalable Open Laboratory for Cyber Experimentation). Our team developed virtual environments for analyzing industrial control systems, focusing on two key case studies: a chemical plant simulator and manufacturing plants. We successfully identified and demonstrated critical vulnerabilities, including sensor spoofing attacks and control channel exploits. The project utilized Sceptre, a framework combining Minimega for VM orchestration and Phenix for configuration management. By implementing these testbeds in a controlled virtual environment, we enabled safe testing of security scenarios without risking physical infrastructure. This work advances our understanding of ICS vulnerabilities while providing a platform for future cybersecurity research and training.
 <br>
 [<a href="https://www.cerias.purdue.edu/research/projects/home/detail/339/deploying_cyber_emulation_modeling_and_analysis_tools_on_the_sol4ce">Project</a>]
+<br><br>
+<strong>Relevant Tech:</strong> VM, Orchestration, Matlab, Docker, minimega, Sceptre.
 </div>
 
 <div class="testbed-item">
@@ -93,6 +95,8 @@ Chemical Plant and Water Treatment Plant [<a href="https://action.ucsb.edu/">NSF
 </div>
 <div class="testbed-intro">
 In collaboration with researchers at UCSB and Purdue, I led the development of GATE, an AWS-based test environment for evaluating industrial control systems (ICS) security research. GATE features a digital twin of two critical components: a chemical plant simulating hazardous exothermic reactions, and a water treatment plant with PLC-controlled water purification processes. Our team created an environment that enables researchers to safely validate attack detection mechanisms, test defense strategies, and evaluate security tools in a controlled setting that accurately replicates real industrial processes.
+<br><br>
+<strong>Relevant Tech:</strong> PLCs, SCADA, OT networks, HMI, AWS, Matlab, Network, IAM.
 </div>
 
 <div class="testbed-item">
@@ -106,5 +110,7 @@ Distributed Robot Swarm Simulation [<a href="https://www.purdue.edu/computes/aid
 </p>
 <div class="testbed-intro">
 We developed a distributed robot swarm simulation framework by extending a single-UAV simulator to support multi-robot systems. The framework integrates Gazebo's physics engine with PX4 Autopilot, enabling high-fidelity physics simulation with accurate sensor noise, dynamics, and environmental interactions. Our implementation uses ROS topics for inter-robot communication and adds support for dynamic waypoints using multiple collision avoidance algorithms. Written in Python and C++, the framework effectively simulates environmental changes, vehicle dynamics, and real-time communication between robots in swarm scenarios.
+<br><br>
+<strong>Relevant Tech:</strong> Ros2, PX4, Gazebo, C++, Python, Foxglove.
 </div>
 </div>
