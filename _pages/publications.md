@@ -77,6 +77,42 @@ h2, h3, h4 {
 
 <div class="main-content">
 
+<h2>Preprints</h2>
+
+<div class="publication-year">2026</div>
+
+<div class="publication-title">
+The Yes-Man Syndrome: Benchmarking Abstention in Embodied Robotic Agents
+</div>
+
+<div class="publication-authors">
+<strong>Doguhan Yeke</strong>*, Elif Su Temirel*, Ananth Shreekumar*, Brandon Lee, Dongyan Xu, and Z. Berkay Celik
+</div>
+
+<div class="publication-conference">
+arXiv preprint, 2026
+</div>
+
+<div class="publication-links">
+<a href="https://arxiv.org/abs/2605.20544">[Paper]</a>
+</div>
+
+<div class="publication-title">
+RoboJailBench: Benchmarking Adversarial Attacks and Defenses in Embodied Robotic Agents
+</div>
+
+<div class="publication-authors">
+<strong>Doguhan Yeke</strong>*, Yanming Zhou*, Leo Y. Lin*, Hongyu Cai*, Antonio Bianchi, and Z. Berkay Celik
+</div>
+
+<div class="publication-conference">
+arXiv preprint, 2026
+</div>
+
+<div class="publication-links">
+<a href="https://arxiv.org/abs/2605.19328">[Paper]</a>
+</div>
+
 <h2>Conference Proceedings</h2>
 
 <div class="publication-year">2025</div>
