@@ -115,6 +115,24 @@ arXiv preprint, 2026
 
 <h2>Conference Proceedings</h2>
 
+<div class="publication-year">2026</div>
+
+<div class="publication-title">
+MIRAGE: Detecting Fake Emergency Electronic Brake Light Attacks in V2X Networks via Event-Gated Behavioral Analysis
+</div>
+
+<div class="publication-authors">
+Eunhan Ka, <strong>Doguhan Yeke</strong>, Z. Berkay Celik, and Satish V. Ukkusuri
+</div>
+
+<div class="publication-conference">
+USENIX Symposium on Vehicle Security and Privacy (VehicleSec), 2026
+</div>
+
+<div class="publication-links">
+<a href="https://doguhanyeke.github.io/">[Paper]</a>
+</div>
+
 <div class="publication-year">2025</div>
 
 <div class="publication-title">
