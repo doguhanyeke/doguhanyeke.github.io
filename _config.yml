@@ -20,7 +20,7 @@ title                    : "Doguhan Yeke"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Doguhan Yeke"
-description              : "Research Assistant"
+description              : "Applied Researcher"
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Doguhan Yeke"
   avatar           : "/assets/images/dogu3.jpeg"
-  bio              : "Research Assistant"
+  bio              : "Applied Researcher"
   location         : "Purdue University"
   links:
     - label: "GitHub"
