@@ -5,9 +5,20 @@ layout: archive
 .main-content a {
   color: #007bff !important;
 }
+.main-content {
+  overflow-wrap: break-word;
+}
+.main-content img {
+  max-width: 100%;
+  height: auto;
+}
+/* theme sets .timeline to width:100% AND margin-left:27px, which overflows
+   its container by 27px; auto lets it fill the remaining space instead */
+.main-content .timeline {
+  width: auto;
+}
 .about-block {
   color: #494e52;
-  max-width: 46em;
 }
 .about-block .bio-p {
   margin: 0 0 0.75em 0;
@@ -69,10 +80,10 @@ layout: archive
 </div>
 
 <div style="color: #494e52;">
-  <table style="width:200%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>
       <tr>
-        <td style="padding:0% 0% 0% 0%;width:400%;vertical-align:middle">
+        <td style="padding:0% 0% 0% 0%;width:100%;vertical-align:middle">
           <h1><b>Research Directions</b></h1>
         </td>
       </tr>
@@ -299,10 +310,10 @@ layout: archive
       </div>
     </div>
   </div>
-  <table style="width:200%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>
       <tr>
-        <td style="padding:0% 0% 0% 0%;width:400%;vertical-align:middle">
+        <td style="padding:0% 0% 0% 0%;width:100%;vertical-align:middle">
           <h1 style="display: inline-block;"><b>Publications</b></h1>
           <a href="/publications" style="margin-left: 0.5em; font-size: 0.8rem; color: #007bff; font-weight: normal; text-decoration: none;">[Full List*]</a>
         </td>
@@ -399,10 +410,10 @@ document.querySelectorAll('.pub-abstract-toggle').forEach(function(btn) {
   });
 });
 </script>
-  <table style="width:200%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>
       <tr>
-        <td style="padding:0% 0% 0% 0%;width:400%;vertical-align:middle">
+        <td style="padding:0% 0% 0% 0%;width:100%;vertical-align:middle">
           <h1><b>Talks</b></h1>
         </td>
       </tr>
@@ -430,10 +441,10 @@ document.querySelectorAll('.pub-abstract-toggle').forEach(function(btn) {
       Presented our research on understanding permission models in wearables, with a focus on Android's evolution from install-time to runtime permissions. Discussed privacy implications and the importance of user consent for sensitive data access, in collaboration with Purdue, Google, and UC Irvine.
     </li>
   </ul>
-  <table style="width:200%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>
       <tr>
-        <td style="padding:0% 0% 0% 0%;width:400%;vertical-align:middle">
+        <td style="padding:0% 0% 0% 0%;width:100%;vertical-align:middle">
           <h1><b>Bugs discovered</b></h1>
         </td>
       </tr>
@@ -442,10 +453,10 @@ document.querySelectorAll('.pub-abstract-toggle').forEach(function(btn) {
   <ul>
     <li>Location Privacy, awarded $500 bug bounty, Android Bug Bounty, Google <a href="/bugs/" style="margin-left: 0.5em; font-size: 0.95em;">[Details]</a></li>
   </ul>
-  <table style="width:200%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>
       <tr>
-        <td style="padding:0% 0% 0% 0%;width:400%;vertical-align:middle">
+        <td style="padding:0% 0% 0% 0%;width:100%;vertical-align:middle">
           <h1><b>Services</b></h1>
         </td>
       </tr>
@@ -460,10 +471,10 @@ document.querySelectorAll('.pub-abstract-toggle').forEach(function(btn) {
     <li>Reviewer at VehicleSec 2026 Artifact Evaluation</li>
     <li>Reviewer at USENIX Security 2027</li>
   </ul>
-  <table style="width:200%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>
       <tr>
-        <td style="padding:0% 0% 0% 0%;width:400%;vertical-align:middle">
+        <td style="padding:0% 0% 0% 0%;width:100%;vertical-align:middle">
           <h1><b>Teaching</b></h1>
         </td>
       </tr>
@@ -487,10 +498,10 @@ document.querySelectorAll('.pub-abstract-toggle').forEach(function(btn) {
     <b>CEng331:</b> Computer Organization
   </div>
   <div style="margin-top: 2.5em;"></div>
-  <table style="width:200%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>
       <tr>
-        <td style="padding:0% 0% 0% 0%;width:400%;vertical-align:middle">
+        <td style="padding:0% 0% 0% 0%;width:100%;vertical-align:middle">
           <h1><b>Outreach Activities</b></h1>
         </td>
       </tr>
