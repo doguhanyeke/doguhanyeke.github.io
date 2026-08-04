@@ -5,7 +5,10 @@ layout: archive
 .main-content a {
   color: #007bff !important;
 }
-.main-content {
+/* scoped to prose only: on .main-content it collapsed the min-content width
+   of the heading table cells, splitting words like "Updates" mid-word */
+.about-block .bio-p,
+.thrust {
   overflow-wrap: break-word;
 }
 .main-content img {
@@ -50,7 +53,8 @@ layout: archive
   My recent work benchmarks adversarial robustness and abstention in AI agents
   (<a href="#robojailbench">RoboJailBench</a>, <a href="#roboabstention">RoboAbstention</a>), and my
   earlier work found exploitable flaws in autonomous navigation (<a href="#first">USENIX Security'25</a>),
-  Android and Wear OS permission models (<a href="#second">IEEE S&amp;P'24</a>, Google bug bounty),
+  Android and Wear OS permission models (<a href="#second">IEEE S&amp;P'24</a>,
+  <a href="https://doguhanyeke.github.io/bugs/" target="_blank">Google bug bounty</a>),
   and V2X messaging (<a href="#mirage">VehicleSec'26</a>).
   I approach AI security from systems security &mdash; program analysis, formal methods, agentic
   frameworks, and end-to-end <a href="https://doguhanyeke.github.io/testbeds/" target="_blank">testbeds</a>.
