@@ -5,36 +5,67 @@ layout: archive
 .main-content a {
   color: #007bff !important;
 }
+.about-block {
+  color: #494e52;
+  max-width: 46em;
+}
+.about-block .bio-p {
+  margin: 0 0 0.75em 0;
+}
+.thrust {
+  margin-bottom: 0.8em;
+}
+.thrust-title {
+  font-weight: bold;
+}
+.thrust-refs {
+  font-size: 0.92em;
+}
 </style>
 <div class="main-content">
-<div style="display: flex; align-items: center; gap: 2em; color: #494e52;">
-  <div style="flex: 4;">
-    <h1><b>About me</b></h1>
-    Currently, I am a final-year Ph.D. candidate in the department of Computer Science at
-    <a href="https://www.purdue.edu">Purdue University</a>, working on computer security and system security in
-    <a href="https://pursec.cs.purdue.edu">PurSec Lab</a> and <a href="https://www.cerias.purdue.edu">CERIAS</a>.
-    I am fortunate to be advised by <a
-    href="https://antoniobianchi.me/">Prof. Antonio
-    Bianchi</a> and <a href="https://beerkay.github.io/">Prof. Z. Berkay Celik</a>.
-    Before joining Purdue, I received my M.S and B.S from Computer Engineering department at
-    <a href="https://www.metu.edu.tr">METU</a>
-    in 2020 and 2017, respectively.
-    After completing bachelor's degree, I worked at
-    <a href="https://www.comodo.com">Comodo</a>, evaluating malware detection and classification. I also interned at
-    <a href="https://www.sap.com/index.html">SAP</a>
-    and
-    <a
-      href="https://deepai.org/publication/proceedings-of-enterface-2015-workshop-on-intelligent-interfaces">eNTERFACE'15</a>
-    when I was undergrad.
-    <br>
-    <br>
-    My research focuses on sensor attacks and defenses in interconnected cyber-physical systems. My research is best illustrated by my work in cyber-physical systems, including embodied AI and autonomous systems (e.g., UAVs and mobile robots) <a href="#first">[Usenix'25]</a>, and mobile security and privacy, including wearables (e.g., smartwatches) <a href="#second">[Oakland'24]</a>. Recently, I have been exploring security for AI in LLM-deployed robots. Through system design, formal methods, program analysis, and human-centered studies, my research explores vulnerabilities and proposes defenses to mitigate them. I also actively contribute to open-source <a href="https://doguhanyeke.github.io/testbeds/" target="_blank">testbeds</a>.
-    <br>
-    <br>
-  </div>
-  <div style="flex: 1.5; display: flex; align-items: center; justify-content: center;">
-    <img src="/assets/images/research_domain.jpeg" alt="Research Domain" style="max-width: 100%; border-radius: 8px;" />
-  </div>
+<div class="about-block">
+  <h1><b>About me</b></h1>
+  <p class="bio-p">
+  I am an AI researcher at <a href="https://www.capitalone.com" target="_blank">Capital One</a>.
+  Before that, I received my Ph.D. in Computer Science from
+  <a href="https://www.purdue.edu">Purdue University</a>, where I worked on computer security and
+  system security in <a href="https://pursec.cs.purdue.edu">PurSec Lab</a> and
+  <a href="https://www.cerias.purdue.edu">CERIAS</a>, advised by
+  <a href="https://antoniobianchi.me/">Prof. Antonio Bianchi</a> and
+  <a href="https://beerkay.github.io/">Prof. Z. Berkay Celik</a>.
+  </p>
+  <p class="bio-p">
+  I find how LLMs and agents fail when they are deployed in real systems with real consequences.
+  My recent work benchmarks adversarial robustness and abstention in AI agents
+  (<a href="#robojailbench">RoboJailBench</a>, <a href="#roboabstention">RoboAbstention</a>), and my
+  earlier work found exploitable flaws in autonomous navigation (<a href="#first">USENIX Security'25</a>),
+  Android and Wear OS permission models (<a href="#second">IEEE S&amp;P'24</a>, Google bug bounty),
+  and V2X messaging (<a href="#mirage">VehicleSec'26</a>).
+  I approach AI security from systems security &mdash; program analysis, formal methods, agentic
+  frameworks, and end-to-end <a href="https://doguhanyeke.github.io/testbeds/" target="_blank">testbeds</a>.
+  </p>
+  <p class="bio-p">
+  My work has been supported by or conducted in collaboration with
+  <a href="https://www.purdue.edu/research/features/stories/defense-award-launches-purdue-project-to-strengthen-cyber-physical-systems/" target="_blank">DARPA FIREFLY</a>,
+  <a href="https://action.ucsb.edu/research" target="_blank">NSF AI ACTION</a>,
+  <a href="https://research.google/pubs/wears-my-data-understanding-the-cross-device-runtime-permission-model-in-wearables/" target="_blank">Google</a>,
+  <a href="https://www.amazon.science" target="_blank">Amazon</a>,
+  <a href="https://www.sandia.gov" target="_blank">Sandia National Laboratories</a>, and
+  <a href="https://www.purdue.edu/computes/aida3/" target="_blank">AIDA3</a>.
+  I serve the security community as a reviewer for
+  <a href="https://www.usenix.org/conferences/byname/108" target="_blank">USENIX Security</a>,
+  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206" target="_blank">IEEE TIFS</a>, and
+  <a href="https://www.usenix.org/conference/vehiclesec26" target="_blank">USENIX VehicleSec</a>,
+  and previously as an external reviewer for IEEE S&amp;P, ACM CCS, NDSS, and ACM WiSec.
+  </p>
+  <p class="bio-p">
+  Before Purdue, I received my M.S. and B.S. from the Computer Engineering department at
+  <a href="https://www.metu.edu.tr">METU</a> in 2020 and 2017, respectively. I then worked at
+  <a href="https://www.comodo.com">Comodo</a> on malware detection and classification, and interned at
+  <a href="https://www.sap.com/index.html">SAP</a> and
+  <a href="https://deepai.org/publication/proceedings-of-enterface-2015-workshop-on-intelligent-interfaces">eNTERFACE'15</a>
+  as an undergraduate.
+  </p>
 </div>
 
 <div style="color: #494e52;">
@@ -42,17 +73,29 @@ layout: archive
     <tbody>
       <tr>
         <td style="padding:0% 0% 0% 0%;width:400%;vertical-align:middle">
-          <h1><b>Research Interests</b></h1>
+          <h1><b>Research Directions</b></h1>
         </td>
       </tr>
     </tbody>
   </table>
-  <ul>
-    <li>Safety and Security of Multi-robot Systems <a href="#first">[1]</a> [in-submission]</li>
-    <li>Mobile Security and Privacy <a href="#second">[2]</a></li>
-    <li>Practical Deep Learning Applications (e.g., LLM and Agents) in Security <a href="#mirage">[3]</a> [in-submission]</li>
-    <li>Security for Embodied Robotic Agents <a href="#yesman">[4]</a> [in-submission] <a href="#robojailbench">[5]</a> [in-submission]</li>
-  </ul>
+  <div class="thrust">
+    <span class="thrust-title">Red-teaming LLMs and autonomous agents.</span>
+    Jailbreaks, prompt injection, tool and permission misuse, abstention failures, and adversarial
+    robustness &mdash; and the benchmarks and evaluation harnesses that measure them before deployment.
+    <span class="thrust-refs"><a href="#robojailbench">[RoboJailBench]</a> <a href="#roboabstention">[RoboAbstention]</a></span>
+  </div>
+  <div class="thrust">
+    <span class="thrust-title">Safety and security of autonomous and multi-robot systems.</span>
+    Automated discovery of semantic attacks against collision avoidance and navigation; sensor spoofing
+    and false data injection across UAVs, ground robots, and V2X networks.
+    <span class="thrust-refs"><a href="#first">[Raven, Security'25]</a> <a href="#mirage">[MIRAGE, VehicleSec'26]</a></span>
+  </div>
+  <div class="thrust">
+    <span class="thrust-title">Mobile and emerging-platform security and privacy.</span>
+    Cross-device permission models, static/taint analysis, and user studies across Wear OS, watchOS,
+    Fitbit, and Garmin.
+    <span class="thrust-refs"><a href="#second">[Oakland'24]</a></span>
+  </div>
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>
       <tr>
@@ -64,6 +107,24 @@ layout: archive
   </table>
   <div class="timeline">
     <div class="timeline-news">
+      <div class="timeline-item">
+        <div class="timeline-date">
+          <div class="timeline-dot" style="background-color: #B392AC;"></div>
+          <span style="background-color: #B392AC;">Jul 2026</span>
+          <p class="timeline-title">
+            Started as an Applied Researcher at <a href="https://www.capitalone.com" target="_blank">Capital One</a>.
+          </p>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-date">
+          <div class="timeline-dot" style="background-color: #B392AC;"></div>
+          <span style="background-color: #B392AC;">Jun 2026</span>
+          <p class="timeline-title">
+            Defended my Ph.D. dissertation at <a href="https://www.purdue.edu" target="_blank">Purdue University</a>! 🎓
+          </p>
+        </div>
+      </div>
       <div class="timeline-item">
         <div class="timeline-date">
           <div class="timeline-dot" style="background-color: #B392AC;"></div>
@@ -252,8 +313,8 @@ layout: archive
     <li style="margin-bottom: 2em;">
       <div style="display: flex; align-items: flex-start;">
         <div style="flex: 1;">
-          <a id="yesman"></a>
-          <b>The Yes-Man Syndrome: Benchmarking Abstention in Embodied Robotic Agents</b>
+          <a id="roboabstention"></a>
+          <b>RoboAbstention: Benchmarking Abstention in Embodied Robotic Agents</b>
         </div>
       </div>
       <div>
@@ -397,6 +458,7 @@ document.querySelectorAll('.pub-abstract-toggle').forEach(function(btn) {
     <li>External reviewer at ACM WiSec 2024</li>
     <li>Reviewer at TIFS 2025</li>
     <li>Reviewer at VehicleSec 2026 Artifact Evaluation</li>
+    <li>Reviewer at USENIX Security 2027</li>
   </ul>
   <table style="width:200%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>

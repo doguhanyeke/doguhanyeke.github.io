@@ -82,7 +82,7 @@ h2, h3, h4 {
 <div class="publication-year">2026</div>
 
 <div class="publication-title">
-The Yes-Man Syndrome: Benchmarking Abstention in Embodied Robotic Agents
+RoboAbstention: Benchmarking Abstention in Embodied Robotic Agents
 </div>
 
 <div class="publication-authors">
