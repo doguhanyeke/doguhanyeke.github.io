@@ -130,7 +130,7 @@ USENIX Symposium on Vehicle Security and Privacy (VehicleSec), 2026
 </div>
 
 <div class="publication-links">
-<a href="https://doguhanyeke.github.io/">[Paper]</a>
+<a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=jmSheN8AAAAJ&amp;citation_for_view=jmSheN8AAAAJ:SdhP9T11ey4C" target="_blank">[Paper]</a>
 </div>
 
 <div class="publication-year">2025</div>
