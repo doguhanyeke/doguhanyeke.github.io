@@ -49,6 +49,35 @@ html {
   }
 }
 
+/* Drop the site title from the masthead; the nav starts with Publications. */
+.masthead .site-title {
+  display: none;
+}
+
+/* _navigation.scss re-declares .masthead__inner-wrap with max-width:100% and
+   imports after _masthead.scss, so the theme's max-width is lost and the
+   masthead spans the viewport while #main caps at $max-width. Restore it so
+   the two share the same origin. */
+@include breakpoint($x-large) {
+  .masthead__inner-wrap {
+    max-width: $max-width;
+  }
+}
+
+/* Line the first nav item up with the main content column, which begins
+   after the author sidebar. */
+@include breakpoint($large) {
+  .masthead .greedy-nav {
+    padding-left: $right-sidebar-width-narrow;
+  }
+}
+
+@include breakpoint($x-large) {
+  .masthead .greedy-nav {
+    padding-left: $right-sidebar-width;
+  }
+}
+
 /* Center the author profile sidebar. The theme leaves the name, bio,
    location and link list left-aligned while the avatar reads as centered.
    Scoped to $large and up, where the sidebar stacks vertically; below that
