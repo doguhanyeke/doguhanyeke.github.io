@@ -47,4 +47,23 @@ html {
   @include breakpoint($medium) {
     font-size: 15px;
   }
-} 
+}
+
+/* Center the author profile sidebar. The theme leaves the name, bio,
+   location and link list left-aligned while the avatar reads as centered.
+   Scoped to $large and up, where the sidebar stacks vertically; below that
+   it is a horizontal table-cell layout and should stay left-aligned. */
+@include breakpoint($large) {
+  .sidebar .author__avatar,
+  .sidebar .author__content,
+  .sidebar .author__urls-wrapper {
+    text-align: center;
+  }
+
+  /* Center the link list as a single block, but keep the items left-aligned
+     inside it so the icons stay in a straight column instead of zigzagging. */
+  .sidebar .author__urls {
+    display: inline-block;
+    text-align: left;
+  }
+}
