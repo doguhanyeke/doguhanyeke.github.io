@@ -78,6 +78,14 @@ html {
   }
 }
 
+/* The theme dims the whole sidebar to opacity 0.75 and only restores it on
+   hover, which reads as the photo being greyed out. Keep it fully opaque. */
+@include breakpoint($large) {
+  .sidebar {
+    opacity: 1;
+  }
+}
+
 /* Center the author profile sidebar. The theme leaves the name, bio,
    location and link list left-aligned while the avatar reads as centered.
    Scoped to $large and up, where the sidebar stacks vertically; below that
